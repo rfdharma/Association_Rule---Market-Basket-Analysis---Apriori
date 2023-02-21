@@ -86,4 +86,5 @@ if type(data) != type('Tidak Ditemukan'):
         st.markdown('Hasil Rekomendasi Item : ')
         st.success(f'**{recommended_item(item)}**')
     else:
+        st.markdown('Hasil Rekomendasi Item : ')
         st.error('Tidak Ada Rekomendasi Produk')
