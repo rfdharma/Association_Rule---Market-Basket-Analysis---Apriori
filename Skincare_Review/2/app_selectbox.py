@@ -94,7 +94,7 @@ h = []
 for i, v in enumerate(g):
     h.append((g[i]))
 
-clean = pd.read_csv('result_rule_clean.csv')
+clean = pd.read_csv('Skincare_Review/2/result_rule_clean.csv')
 
 def search_nested_list(nested_list, search_string):
     for i in range(len(nested_list)):
