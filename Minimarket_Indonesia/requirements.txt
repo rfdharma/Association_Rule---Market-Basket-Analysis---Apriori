@@ -4,4 +4,6 @@ calendar
 matplotlib
 numpy
 seaborn
+locale
+datetime
 mlxtend
