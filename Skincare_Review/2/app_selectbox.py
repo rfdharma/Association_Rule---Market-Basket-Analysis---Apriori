@@ -14,7 +14,7 @@ options = ['Olay', 'Nykaa Naturals', 'Nykaa Cosmetics', 'Nivea', 'NYX Profession
 
 # membuat multiselect dengan label "Select your favorite brands"
 st.write("---")
-selected_options = st.multiselect('Select Brand Name :', options)
+selected_options = st.multiselect('Select Brand Name :', sorted(options))
 
 if len(selected_options) != 0 :
     df = df.loc[df['brand_name'].isin(selected_options)]
