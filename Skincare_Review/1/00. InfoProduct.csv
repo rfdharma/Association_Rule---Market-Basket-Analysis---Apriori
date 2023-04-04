@@ -1,0 +1,862 @@
+Category,Merk,Product,Price,OverallRating,Reviewer
+Night Cream,Hada Labo,Perfect 3D Gel,Rp. 91.000,3.8,978.0
+Face Mist,PIXY,Aqua Beauty Protecting Mist,Rp. 27.000,4.2,3851.0
+Night Cream,Wardah,Lightening Night Cream,Rp. 0,3.5,806.0
+Face Mist,Avene,Thermal Spring Water,Rp. 199.000,4.4,1239.0
+Night Cream,Wardah,White Secret Night Cream,Rp. 98.000,3.6,572.0
+Face Mist,Evian,Mineral Water Spray,Rp. 160.000,3.8,979.0
+Night Cream,Safi,White Expert Replenishing Night Cream,Rp. 103.000,3.6,423.0
+Face Mist,Nature Republic,Aloe Vera 92% Soothing Gel Mist,Rp. 100.000,4.0,424.0
+Night Cream,Garnier,Light Complete White Speed Multi-Action Whitening Serum Cream Night Restore,Rp. 54.100,3.2,409.0
+Face Mist,Wardah,C-defense Face Mist,Rp. 36.000,3.7,354.0
+Night Cream,L'Oreal Paris,White Perfect Clinical Overnight Treatment,Rp. 150.000,3.8,363.0
+Face Mist,Nu Skin,NaPCA Moisture Mist,Rp. 113.000,4.1,342.0
+Night Cream,The Body Shop,Vitamin E Nourishing Night Cream,Rp. 199.000,3.7,287.0
+Face Mist,Haple,Pure Rose Water,Rp. 39.000,4.2,305.0
+Night Cream,The Body Shop,Vitamin E Gel Moisture Cream,Rp. 199.000,4.1,270.0
+Face Mist,The Body Shop,Vitamin C Energising Face Mist,Rp. 179.000,3.0,233.0
+Night Cream,PIXY,White Aqua Gel Cream Night Cream,Rp. 50.000,3.5,258.0
+Face Mist,Mineral Botanica,Fresh Face Mist,Rp. 30.000,3.6,232.0
+Night Cream,Klairs,Midnight Blue Calming Cream,Rp. 450.000,4.1,242.0
+Face Mist,Raiku Beauty,Hydrating Mist,Rp. 108.000,4.7,210.0
+Night Cream,The Body Shop,Tea Tree Oil Blemish Fade Night Lotion,Rp. 179.000,3.3,227.0
+Face Mist,Natur-E,Daily Nourishing Face Mist,Rp. 31.000,3.7,200.0
+Night Cream,Hada Labo,Shirojyun Ultimate Whitening Cream,Rp. 70.000,3.5,226.0
+Face Mist,Bioderma,Hydrabio Brume Soothing Refreshing Water,Rp. 99.000,4.2,184.0
+Night Cream,Wardah,Renew You Anti Aging Night Cream,Rp. 100.000,3.7,220.0
+Face Mist,Mario Badescu,Facial Spray With Aloe Herbs And Rosewater,Rp. 175.620,4.2,178.0
+Night Cream,Envygreen,Night Extra Brightening Cream,Rp. 48.000,4.3,206.0
+Face Mist,Mustika Ratu,Oxigenated Spray,Rp. 40.000,3.1,157.0
+Night Cream,Olay,Total Effects 7 in 1 Night Cream,Rp. 145.900,4.0,198.0
+Face Mist,Sukin,Hydrating Mist Toner,Rp. 130.000,3.9,148.0
+Night Cream,Wardah,Intensive Night Cream,Rp. 33.000,3.1,189.0
+Face Mist,Hada Labo,Gokujyun Ultimate Moisturizing Face Mist,Rp. 0,4.2,132.0
+Night Cream,Azarine Cosmetics,C White Night Moisturizer,Rp. 65.000,4.7,172.0
+Face Mist,Uriage,Thermal Water,Rp. 249.000,4.3,96.0
+Night Cream,Wardah,Acnederm Night Treatment Moisturizer,Rp. 28.000,3.8,169.0
+Face Mist,Laneige,Water Bank Mineral Skin Mist,Rp. 360.000,3.8,90.0
+Night Cream,SK-II,Stempower,Rp. 220.000,3.9,164.0
+Face Mist,The Body Shop,Vitamin E Face Mist,Rp. 159.000,3.5,82.0
+Night Cream,Charis,M+ Madecassoside Cica Cream,Rp. 242.000,3.7,163.0
+Face Mist,Mario Badescu,Facial Spray with Aloe Cucumber and Green Tea,Rp. 0,4.1,82.0
+Night Cream,Sulwhasoo,Concentrated Ginseng Renewing Cream EX,Rp. 1.500.000,4.4,152.0
+Face Mist,Pyunkang Yul,Mist Toner,Rp. 200.000,4.2,82.0
+Night Cream,L'Oreal Paris,White Perfect Night Cream,Rp. 119.000,3.4,146.0
+Face Mist,Bio-Essence,Miracle Bio Water,Rp. 120.000,4.2,80.0
+Night Cream,Pond's,Age Miracle Youthful Glow Night Cream Moisturizer,Rp. 28.000,3.9,134.0
+Face Mist,La Roche-Posay,Serozinc,Rp. 300.000,4.1,74.0
+Night Cream,Safi,Age Defy Renewal Night Cream,Rp. 74.900,3.7,133.0
+Face Mist,Mineral Botanica,Acne Care Face Mist,Rp. 33.000,3.3,73.0
+Night Cream,Pond's,Flawless White Brightening Night Cream,Rp. 70.000,3.4,130.0
+Face Mist,Mineral Botanica,Hydra Face Mist,Rp. 35.000,4.5,71.0
+Face Mist,Mineral Botanica,Hydra Face Mist,Rp. 35.000,4.6,71.0
+Night Cream,SADA by Cathy Sharon,Facial Moiturizing Lotion - PM,Rp. 250.000,4.4,127.0
+Face Mist,The Body Shop,Face Mist,Rp. 30.000,3.8,63.0
+Face Mist,The Body Shop,Face Mist,Rp. 30.000,4.0,63.0
+Face Mist,The Body Shop,Face Mist,Rp. 30.000,3.3,53.0
+Face Mist,The Body Shop,Face Mist,Rp. 30.000,3.9,50.0
+Night Cream,Garnier,Sakura White Night Cream,Rp. 75.000,3.8,127.0
+Face Mist,Probio C,Vitamin C Spray,Rp. 85.000,3.8,58.0
+Night Cream,The Body Shop,Tea Tree Night Lotion,Rp. 0,3.7,123.0
+Face Mist,Everpure,Organic Rose Water,,4.6,54.0
+Night Cream,Good Virtues Co.,Brightening Night Cream,Rp. 64.000,4.5,119.0
+Face Mist,Lacoco,Aloe Vera Soothing Mist,Rp. 230.000,4.6,54.0
+Night Cream,Everwhite,Be Bright Night Cream,Rp. 125.000,3.5,117.0
+Face Mist,Clinelle,Pure Swiss Thermal Spring Water,Rp. 159.000,3.9,46.0
+Night Cream,Bioderma,Sensibio Light,Rp. 279.000,3.7,112.0
+Face Mist,Viva Cosmetics,Air Mawar Viva,Rp. 0,4.4,41.0
+Night Cream,Hada Labo,Gokujyun Ultimate Moisturizing Cream,Rp. 50.000,3.7,105.0
+Face Mist,Haple,Licorice Water,Rp. 49.000,4.0,39.0
+Night Cream,Kiehl's,Clearly Corrective Brightening and Smoothing Moisture Treatment,Rp. 795.000,3.8,102.0
+Face Mist,Innisfree,Innisfree Aloe vera,Rp. 80.000,4.3,37.0
+Night Cream,Pond's,White Beauty Spot Less Rosy White Night Cream,Rp. 24.000,3.5,101.0
+Face Mist,Himalaya,Dermasafe Booster Mist,Rp. 106.000,4.2,37.0
+Night Cream,Viva Cosmetics,Viva White Soothing Aloe Gel,Rp. 1.980,4.4,99.0
+Face Mist,The Bath Box,Fresh Water,,4.0,37.0
+Night Cream,Skin1004,Madagascar Centella Asiatica Ampoule,Rp. 289.000,4.1,93.0
+Face Mist,Evian,Baby Face & Body Spray,Rp. 148.500,3.7,36.0
+Night Cream,Pyunkang Yul,Moisture Cream,Rp. 400.000,4.1,90.0
+Night Cream,CeraVe,ceraVe Moisturizing Cream,Rp. 14.95,4.3,87.0
+Night Cream,For Skin's Sake (FSS),Retinol Overnight Cream,Rp. 240.000,4.4,85.0
+Face Mist,Kangen Water,Beauty Water,Rp. 50.000,4.2,866.0
+Night Cream,ElsheSkin,Brightening Cream,Rp. 85.000,4.1,81.0
+Day Cream,NIVEA,Soft,Rp. 7.500,4.0,1217.0
+Day Cream,Pond's,Instabright Pink Tone Up Cream,Rp. 23.000,3.3,900.0
+Day Cream,Fair & Lovely,Krim Pencerah Multi Vitamin,Rp. 12.000,3.1,860.0
+Day Cream,Garnier,Sakura White Serum Day Cream,Rp. 61.300,3.4,838.0
+Day Cream,Garnier,Light Complete Multi-Action Whitening Serum Cream Extra UV Protection,Rp. 45.700,3.2,687.0
+Day Cream,Wardah,Lightening Day Cream,Rp. 0,3.2,660.0
+Day Cream,Wardah,Perfect Bright Moisturizer,Rp. 0,3.8,582.0
+Day Cream,Citra,Pearly White UV Essence Cream,Rp. 32.250,3.1,560.0
+Day Cream,Wardah,White Secret Day Cream,Rp. 97.000,3.5,542.0
+Day Cream,Viva Cosmetics,Skin Food Cream,Rp. 8.850,3.6,458.0
+Day Cream,Garnier,Light Complete Bright Up Tone Up Cream,Rp. 25.000,3.3,411.0
+Day Cream,Citra,Green Tea Anti Acne Facial Moisturizer,Rp. 27.000,3.4,403.0
+Day Cream,Emina,Ms. Pimple Moisturizing Gel,Rp. 20.000,3.8,399.0
+Day Cream,Garnier,Sakura White Pinkish Radiance & Smooth Pores Whitening Serum Cream UVA/UVB Filters,Rp. 22.000,3.3,392.0
+Day Cream,Skin1004,Madagascar Centella-Asiatica Cream,Rp. 0,3.8,391.0
+Day Cream,Garnier,Light Complete White Speed Yuzu Whitening Serum Cream SPF 19,Rp. 55.000,3.4,375.0
+Day Cream,The Body Shop,Vitamin E Moisture Cream,Rp. 179.000,3.5,367.0
+Day Cream,Safi,White Expert Illuminating Day Cream SPF15 PA++,Rp. 99.500,3.5,361.0
+Day Cream,Laneige,Water Bank Gel Cream,Rp. 450.000,4.1,358.0
+Day Cream,Clinique,Moisture Surge 72-Hour Auto-Replenishing Hydrator,Rp. 655.000,4.5,342.0
+Sun Protection,Emina,Sun Protection SPF 30 PA+++,Rp. 26.000,3.7,
+Sun Protection,Skin Aqua,UV Moisture Milk,Rp. 48.500,4.2,5925.0
+Sun Protection,Wardah,Sunscreen Gel SPF 30,Rp. 28.000,3.1,5891.0
+Sun Protection,Biore,UV Aqua Rich Watery Essence SPF 50+/PA++++,Rp. 140.000,4.3,5655.0
+Sun Protection,L'Oreal Paris,UV Perfect Matte & Fresh Long UV SPF 50/ PA++++,Rp. 99.000,4.0,2650.0
+Sun Protection,Skin Aqua,UV Moisture Gel,Rp. 47.700,4.0,2266.0
+Sun Protection,Acnes,UV Tint,Rp. 35.000,3.7,987.0
+Sun Protection,NIVEA,Sun Protect & White Oil Control Serum SPF50 PA+++,Rp. 60.000,4.3,753.0
+Sun Protection,Cosrx,Aloe Soothing Sun Cream,Rp. 1.750,4.1,592.0
+Sun Protection,Benton,UV Mild Milk,Rp. 48.000,4.0,591.0
+Sun Protection,NIVEA,Nivea Sun Protect & White Serum,Rp. 52.000,4.2,538.0
+Sun Protection,Wardah,Wardah Sun Care,Rp. 33.500,3.3,384.0
+Sun Protection,Viva Cosmetics,Face Sunblock Cream SPF 33,Rp. 60.000,3.4,341.0
+Sun Protection,Envygreen,Ultimate Sun Protection,Rp. 89.000,4.5,305.0
+Sun Protection,Skin Aqua,UV Whitening Milk,Rp. 48.000,3.9,290.0
+Sun Protection,Biore,Biore UV Watery Essencee,Rp. 110.000,4.3,274.0
+Sun Protection,The Body Shop,Skin Defence Multi-Protection Essence,Rp. 399.000,4.3,266.0
+Sun Protection,Innisfree,Perfect UV Protection Cream Triple Care SPF 50+ PA+++,Rp. 210.000,3.7,262.0
+Sun Protection,Etude House,Sunprise Mild Airy Finish,Rp. 128.000,4.3,235.0
+Sun Protection,Innisfree,Daily UV Protection Cream Mild,Rp. 100.000,4.0,206.0
+Lotion & Emulsion,Safi,Age Defy Gold Water Essence,Rp. 142.900,4.2,1094.0
+Lotion & Emulsion,Hada Labo,Gokujyun Ultimate Moisturizing Milk,Rp. 30.000,3.8,1087.0
+Lotion & Emulsion,Cosrx,Oil-free Ultra-Moisturizing Lotion (with Birch Sap),Rp. 239.000,4.0,745.0
+Lotion & Emulsion,Hada Labo,Shirojyun Ultimate Whitening Milk,Rp. 50.000,3.4,526.0
+Lotion & Emulsion,Wardah,Nature Daily Witch Hazel Purifying Moisturizer Gel,Rp. 21.000,3.6,445.0
+Lotion & Emulsion,Emina,Moist in A Bottle Moisturizer,Rp. 28.000,3.5,435.0
+Lotion & Emulsion,Cosrx,Advanced Snail 92 All in One Cream,Rp. 209.000,4.0,430.0
+Lotion & Emulsion,Clean And Clear,Essentials Moisturizer,Rp. 10,3.6,385.0
+Lotion & Emulsion,Laneige,Cream Skin Refiner,Rp. 300.000,4.2,381.0
+Lotion & Emulsion,Clinique,Dramatically Different Moisturizing Gel,Rp. 361.920,4.2,376.0
+Lotion & Emulsion,Pond's,Acne Solution AntiAcne Leave-on Daily Expert Moisturizer,Rp. 28.500,3.5,318.0
+Lotion & Emulsion,Hada Labo,Gokujyun Alpha Ultimate Anti Aging Milk,Rp. 50.000,4.1,310.0
+Lotion & Emulsion,Innisfree,Orchid Enriched Cream,Rp. 380.000,4.1,298.0
+Lotion & Emulsion,Cetaphil,Daily Facial Moisturizer SPF15,Rp. 190.000,3.4,297.0
+Lotion & Emulsion,The Body Shop,Tea Tree Mattifying Lotion,Rp. 198,3.5,290.0
+Lotion & Emulsion,Sariayu,Lotion Jerawat,Rp. 18.700,3.5,249.0
+Lotion & Emulsion,Benton,Aloe Propolis Soothing Gel,Rp. 240.000,4.4,237.0
+Lotion & Emulsion,Benton,Aloe Propolis Soothing Gel,Rp. 240.000,4.2,238.0
+Lotion & Emulsion,N'pure,Face Toner Centella Asiatica,Rp. 100.000,4.1,233.0
+Lotion & Emulsion,Benton,Snail Bee High Content Lotion,Rp. 250.000,3.7,222.0
+Lotion & Emulsion,Pure Paw Paw,Strawberry,Rp. 52.000,4.7,221.0
+Face Oil,Wardah,Pure Olive Oil,Rp. 24.000,3.9,757.0
+Face Oil,PURIVERA BOTANICALS,Grapeseed Oil,Rp. 45.000,3.8,478.0
+Face Oil,PURIVERA BOTANICALS,Grapeseed Oil,Rp. 45.000,4.5,41.0
+Face Oil,Trilogy,Certified Organic Rosehip Oil,Rp. 580.000,4.3,345.0
+Face Oil,The Ordinary,100% Organic Cold-Pressed Rose Hip Seed Oil,Rp. 0,4.1,335.0
+Face Oil,Haple,Pure Grapeseed Oil,Rp. 49.000,3.7,333.0
+Face Oil,PURIVERA BOTANICALS,Almond Oil,Rp. 55.000,3.8,292.0
+Face Oil,Haple,Pure Almond oil,Rp. 59.000,3.6,230.0
+Face Oil,The Bath Box,Pure Squalane,Rp. 250.000,4.4,151.0
+Face Oil,Haple,Pure Rice Bran Oil,Rp. 59.000,3.8,148.0
+Face Oil,Trilogy,Rosehip Oil Antioxidant+,Rp. 0,4.2,135.0
+Face Oil,The Body Shop,Oils of Life Intensely Revitalizing Facial Oil,Rp. 599.000,4.2,124.0
+Face Oil,Tarte Cosmetics,Maracuja Oil,Rp. 604.000,3.8,117.0
+Face Oil,Sunday Riley,Luna Sleeping Night Oil,Rp. 1.725.000,4.1,97.0
+Face Oil,The Bath Box,Facial Oil,Rp. 190.000,3.5,91.0
+Face Oil,Sunday Riley,U.F.O. Ultra-Clarifying Face Oil,Rp. 1.052.800,4.3,87.0
+Face Oil,Kleveru Organics,Sunflower Seed Face Oil,Rp. 40.000,3.7,85.0
+Face Oil,Sukin,CERTIFIED ORGANIC ROSE HIP OIL,Rp. 240.000,4.2,79.0
+Face Oil,BHUMI,Multi Targeted All Natural Adoring Face Oil,Rp. 229.000,4.6,77.0
+Face Oil,Organic Supply Co.,Tamanu Oil,Rp. 100.000,4.0,70.0
+Face Oil,Organic Supply Co.,Tamanu Oil,Rp. 100.000,4.1,66.0
+Face Oil,PURIVERA BOTANICALS,Rosehip Oil,Rp. 95.000,3.7,70.0
+Face Oil,PURIVERA BOTANICALS,Rosehip Oil,Rp. 95.000,4.1,66.0
+Face Oil,PURIVERA BOTANICALS,Rosehip Oil,Rp. 95.000,4.1,38.0
+Eye Treatment,The Ordinary,Caffeine Solution 5% + EGCG,Rp. 0,3.6,465.0
+Eye Treatment,Lacoco,Intensive Treatment Eye Serum,Rp. 180.000,4.4,305.0
+Eye Treatment,Vaseline,Brightening Eye Roll-On,Rp. 50.000,2.4,261.0
+Eye Treatment,Raiku Beauty,Eye Serum,Rp. 148.000,4.6,244.0
+Eye Treatment,Pond's,Eyeluminate Firming Serum,Rp. 42.000,4.7,220.0
+Eye Treatment,Purbasari,New Cell Eye Serum Roll On,Rp. 33.000,3.3,208.0
+Eye Treatment,Laneige,Time Freeze Eye Serum,Rp. 600.000,3.3,66.0
+Eye Treatment,Lancome,Genifique Eye Light-Pearl,Rp. 850.000,4.2,62.0
+Eye Treatment,The Body Shop,Vitamin E Eyes Cube,Rp. 209.000,2.5,60.0
+Eye Treatment,Nature Republic,California Aloe Vera 74 Cooling Eye Serum,Rp. 130.000,3.0,54.0
+Eye Treatment,SK-II,Facial Treatment Essence Eye,Rp. 800.000,3.6,47.0
+Eye Treatment,Sensatia Botanicals,Kakadu Plum & Argan Botanical Eye Serum,Rp. 180.000,3.5,46.0
+Eye Treatment,L.A. Girl,Eye Essential Serum,,3.9,33.0
+Eye Treatment,The Body Shop,Elderflower Unperfumed Eye Gel,Rp. 150.000,3.3,29.0
+Eye Treatment,Sulwhasoo,Timetreasure Renovating Eye Serum,Rp. 250,4.4,27.0
+Eye Treatment,Kiehl's,Super Multi-Corrective Eye Opening Serum,Rp. 580.000,3.2,27.0
+Eye Treatment,Clinique,All About Eyes Serum De-Puffing Eye Massage,Rp. 400.000,4.3,26.0
+Eye Treatment,Olay,Regenerist Revitalising Eye Serum,Rp. 179.000,3.1,24.0
+Eye Treatment,Mazaya,Dermo Eye Treatment Gel with Astaxanthine,Rp. 30.000,3.4,23.0
+Eye Treatment,Crystallure by Wardah,Supreme Advanced Eye Serum,Rp. 155.000,3.8,23.0
+Brow & Lash Treatment,Etude House,My Lash Serum,Rp. 113.000,4.1,332.0
+Brow & Lash Treatment,Biore,Nutrilash Eyelash & Eyebrow Serum,Rp. 70.000,4.3,206.0
+Brow & Lash Treatment,Pulchra,Oilash,Rp. 75.000,4.1,158.0
+Brow & Lash Treatment,Mavala,Eye Care,Rp. 395.000,3.9,139.0
+Brow & Lash Treatment,Indoganic,Brow and Lash Enhancer,Rp. 99.000,4.7,99.0
+Brow & Lash Treatment,Ertos,Eyelash Serum,Rp. 125.000,3.6,54.0
+Brow & Lash Treatment,DHC,Conditioning Eyelash Tonic,Rp. 500.000,4.3,48.0
+Brow & Lash Treatment,APOTCARE,Optilash Lash Enhancing Serum,Rp. 560.000,4.3,31.0
+Brow & Lash Treatment,Bioaqua,Nourishing Liquid Eyelashes,Rp. 27.000,3.3,13.0
+Brow & Lash Treatment,Catrice,Lashboost,Rp. 80.000,3.9,13.0
+Brow & Lash Treatment,O.TWO.O,Eyelash Nourishing Essence,Rp. 0,4.3,6.0
+Brow & Lash Treatment,Haple,pulchra.id,Rp. 75.000,3.4,5.0
+Brow & Lash Treatment,Trixia,"Trixlash - Eyelash, Brow, and Hair Oil Serum",Rp. 82,3.8,5.0
+Brow & Lash Treatment,Biotalk.id,Wink..! Lash and Brow Serum,Rp. 60.000,3.8,4.0
+Brow & Lash Treatment,Grow Recipe,Brow & Lash Oil,Rp. 0,4.0,4.0
+Brow & Lash Treatment,Kiss Me,Heroine Make Eyelash Serum,Rp. 169.664,4.3,3.0
+Brow & Lash Treatment,Silver Swan,Max Lash Enhancing Serum,Rp. 89.000,4.7,3.0
+Brow & Lash Treatment,DHC,Extra Beauty Eyelash Tonic,Rp. 350.000,5.0,3.0
+Brow & Lash Treatment,Natural Hut,Castor Oil,Rp. 27,4.4,3.0
+Skin Soothing Treatment,Nature Republic,Aloe Vera 92% Soothing Gel,Rp. 100.000,3.9,
+Skin Soothing Treatment,Wardah,Hydrating Aloe Vera Gel,Rp. 38.500,3.1,3835.0
+Skin Soothing Treatment,the SAEM,99% Jeju Fresh Aloe Soothing Gel,Rp. 102.000,4.1,1033.0
+Skin Soothing Treatment,Innisfree,Aloe Revital Soothing Gel,Rp. 100.000,4.4,847.0
+Skin Soothing Treatment,Wardah,Hydramild Multifunction Gel,Rp. 0,3.2,793.0
+Skin Soothing Treatment,Herborist,Aloe Vera Gel 98%,Rp. 29.000,3.5,648.0
+Skin Soothing Treatment,Citra,Fresh Glow Multifunction Gel Aloe Bright UV,Rp. 25.000,4.0,363.0
+Skin Soothing Treatment,The Face Shop,Jeju Aloe 99% Fresh Soothing Gel,Rp. 65.000,4.1,333.0
+Skin Soothing Treatment,Citra,Fresh Glow Multifunction Gel Tomato Bright UV,Rp. 25.000,3.9,327.0
+Skin Soothing Treatment,Holika Holika,Aloe Soothing Gel,Rp. 162.000,4.4,286.0
+Skin Soothing Treatment,Missha,Premium Aloe Soothing Gel 95%,Rp. 55.000,4.5,232.0
+Skin Soothing Treatment,Emina,Aloe Vera Gel,Rp. 28.000,4.4,167.0
+Skin Soothing Treatment,Emina,Aloe Vera Gel,Rp. 28.000,4.6,158.0
+Skin Soothing Treatment,Emina,Aloe Vera Gel,Rp. 28.000,4.1,965.0
+Skin Soothing Treatment,Citra,Fresh Glow Multifunction Gel Coconut Nourish UV,Rp. 25.000,4.3,154.0
+Skin Soothing Treatment,the SAEM,Snail Soothing Gel,Rp. 149.000,3.9,137.0
+Skin Soothing Treatment,Nature Republic,Soothing and Moisture Aloe Vera 92% Tube,Rp. 102,4.3,135.0
+Skin Soothing Treatment,Azarine Cosmetics,Soothing & Hydrating Aloe Vera Gel,Rp. 35.000,4.6,102.0
+Skin Soothing Treatment,Celebon,My Aloe Juicy Gel,Rp. 100.000,4.1,101.0
+Skin Soothing Treatment,Pure Paw Paw,Pure Paw Paw Ointment,Rp. 70.000,4.7,99.0
+Acne Treatment,The Body Shop,Tea Tree Oil,Rp. 119.000,3.6,3798.0
+Acne Treatment,The Body Shop,Tea Tree Oil,Rp. 119.000,4.1,188.0
+Acne Treatment,Acnes,Sealing Gel,Rp. 25.000,3.2,2485.0
+Acne Treatment,Acnol,Lotion for Acne,Rp. 15.000,4.0,1897.0
+Acne Treatment,Cosrx,Acne Pimple Master Patch,Rp. 55.000,4.3,1076.0
+Acne Treatment,Acnes,Point Clear,Rp. 20.000,3.4,919.0
+Acne Treatment,Acnes,Spot Care,Rp. 31.500,3.1,846.0
+Acne Treatment,Sariayu,Intensive Acne Care,Rp. 18.500,3.8,841.0
+Acne Treatment,The Body Shop,Acne Gel,Rp. 20.000,3.7,591.0
+Acne Treatment,Benzolac,2.5,Rp. 15.000,3.4,545.0
+Acne Treatment,Cosrx,Centella Blemish Cream,Rp. 220.000,3.9,534.0
+Acne Treatment,Derma Angel,Derma angel,Rp. 36.000,4.2,482.0
+Acne Treatment,Mario Badescu,Drying Lotion,Rp. 248.285,4.0,443.0
+Acne Treatment,Clean And Clear,Active Clear Acne Speed Clearing Gel,Rp. 20.000,3.1,434.0
+Acne Treatment,Melanox,Ms. Pimple Acne Solution Spot Gel,Rp. 32.000,4.1,422.0
+Acne Treatment,Larissa,Acne Lotion,Rp. 27.000,3.7,410.0
+Acne Treatment,Larissa,Acne Lotion,Rp. 27.000,4.1,189.0
+Acne Treatment,OXY,Acne Pimple Medication,Rp. 43.286.69,3.7,403.0
+Acne Treatment,OXY,Acne Pimple Medication,Rp. 43.286.69,3.7,286.0
+Acne Treatment,Vitacid,Retinoic Acid,Rp. 28.000,3.8,401.0
+Acne Treatment,Vitacid,Retinoic Acid,Rp. 28.000,4.1,250.0
+Acne Treatment,Nourish Beauty Care,nourish Acne plast,Rp. 0,4.4,389.0
+Acne Treatment,Wardah,Acne Treatment Gel,Rp. 19.500,2.9,360.0
+Serum & Essence,The Ordinary,Niacinamide 10% + Zinc 1%,Rp. 0,3.9,4515.0
+Serum & Essence,SK-II,Facial Treatment Essence,Rp. 1.825.000,4.1,2700.0
+Serum & Essence,NACIFIC,Fresh Herb Origin Serum,Rp. 0,3.6,2287.0
+Serum & Essence,Cosrx,Advanced Snail 96 Mucin Power Essence,Rp. 220.000,4.2,2243.0
+Serum & Essence,Skin1004,Madagascar Centella-Asiatica 100 Ampoule,Rp. 0,4.1,2043.0
+Serum & Essence,Innisfree,Green Tea Seed Serum,Rp. 340.000,3.9,2034.0
+Serum & Essence,Some by Mi,Snail Truecica,Rp. 0,3.9,2012.0
+Serum & Essence,Somethinc,Niacinamide + Moisture Beet Serum,Rp. 115.000,4.1,1873.0
+Serum & Essence,Benton,Snail Bee High Content Essence,Rp. 170.000,4.0,1773.0
+Serum & Essence,Laneige,Clear C Advanced Effector EX,Rp. 470.000,4.2,1711.0
+Serum & Essence,AVOSKIN,Perfect Hydrating Treatment Essence,Rp. 289.000,4.1,1493.0
+Serum & Essence,The Ordinary,Alpha Arbutin 2% + HA,Rp. 0,3.9,1409.0
+Serum & Essence,ElsheSkin,Radiant Skin Serum,Rp. 199.000,3.9,1359.0
+Serum & Essence,NACIFIC,Phyto Niacin Whitening Essence,Rp. 158.000,3.8,1050.0
+Serum & Essence,Skin Aqua,White Secret Pure Treatment Essence,Rp. 142.000,3.8,1020.0
+Serum & Essence,L'Oreal Paris,Revitalift Crystal Micro Essence,Rp. 199.000,4.2,999.0
+Serum & Essence,Lancome,Advanced Génifique Youth Activating Serum,Rp. 1.250.000,4.5,904.0
+Serum & Essence,Some by Mi,AHA BHA PHA 30 Days Miracle Serum,Rp. 245.000,3.5,858.0
+Serum & Essence,Garnier,Sakura White Pinkish Radiance Ultimate Serum,Rp. 88.000,3.8,823.0
+Serum & Essence,Garnier,Sakura White Booster Serum,Rp. 110.000,4.7,794.0
+Peeling,The Ordinary,AHA 30% + BHA 2% Peeling Solution,Rp. 0,4.2,1002.0
+Peeling,Laneige,Clear C Peeling Serum,Rp. 300.000,4.1,959.0
+Peeling,Mustika Ratu,Peeling Mundisari Tube,Rp. 25.700,3.6,927.0
+Peeling,The Body Shop,DROPS OF YOUTH Liquid Peel,Rp. 389.000,4.3,569.0
+Peeling,Somethinc,AHA BHA PHA Peeling Solution,Rp. 115.000,4.0,522.0
+Peeling,Envygreen,Dead Skin Cell Remover,Rp. 56.000,4.6,323.0
+Peeling,The Body Shop,Drops Of Light Pure Resurfacing Liquid Peel,Rp. 379.000,4.2,239.0
+Peeling,Krave Beauty,Kale-Lalu-yAHA,Rp. 0,4.4,178.0
+Peeling,Mustika Ratu,Peeling Mundisari Bubuk,Rp. 9.300,4.1,177.0
+Peeling,Mustika Ratu,Peeling Kulit Kerang,Rp. 9.200,3.9,145.0
+Peeling,Novexpert,The Peeling Night Cream,Rp. 540.000,4.0,127.0
+Peeling,Safi,Age Defy Deep Exfoliator,Rp. 46.800,4.1,121.0
+Peeling,Azarine Cosmetics,Miraclear Herbal Peeling,Rp. 29.500,4.8,94.0
+Peeling,The Body Shop,Vitamin C Glow-Revealing Liquid Peel,Rp. 359.000,4.0,80.0
+Peeling,Jafra,Gentle Exfoliating Scrub,Rp. 139.000,4.0,72.0
+Peeling,Cosrx,Two in One Poreless Power Liquid,Rp. 0,3.9,67.0
+Peeling,Biokos,Age Repair Anti Wrinkle Revival Peeling,Rp. 48.200,4.7,59.0
+Peeling,Neogen,Real Cica Pad,Rp. 20,4.3,59.0
+Peeling,La Tulipe,Peeling Cream,Rp. 17.000,3.1,55.0
+Peeling,La Tulipe,Peeling Cream,Rp. 17.000,3.4,106.0
+Peeling,Erha,Home Peeling 1,Rp. 83.000,4.0,50.0
+Sleeping Mask,Laneige,Water Sleeping Mask,Rp. 380.000,4.2,5821.0
+Sleeping Mask,Laneige,Water Sleeping Mask,Rp. 380.000,4.2,520.0
+Sleeping Mask,Garnier,Light Complete Yoghurt Sleeping Mask,Rp. 27.000,3.9,1107.0
+Sleeping Mask,Viva Cosmetics,Waterdrop Sleeping Mask,Rp. 27.5,4.0,942.0
+Sleeping Mask,Lacoco,Watermelon Glow Mask,Rp. 225.000,4.7,810.0
+Sleeping Mask,Some by Mi,Yuja Niacin Brightening Sleeping Mask,Rp. 216.000,4.3,609.0
+Sleeping Mask,Emina,Aqua Infused Sleeping Mask,Rp. 37.500,4.1,508.0
+Sleeping Mask,Raiku Beauty,Raiku Brightening Mask,Rp. 128.000,4.9,483.0
+Sleeping Mask,Emina,Lip Mask,Rp. 0,4.6,468.0
+Sleeping Mask,Laneige,Cica Sleeping Mask,Rp. 442.000,4.1,337.0
+Sleeping Mask,Vienna,Relaxing Sleeping Face Mask,Rp. 8.500,3.0,287.0
+Sleeping Mask,Cosrx,Ultimate Nourishing Rice Overnight Spa Mask,Rp. 180.000,3.9,283.0
+Sleeping Mask,Cosrx,Ultimate Nourishing Rice Overnight Spa Mask,Rp. 180.000,3.9,51.0
+Sleeping Mask,Cosrx,Ultimate Moisturizing Honey Overnight Mask,Rp. 189.000,4.1,267.0
+Sleeping Mask,FREEMAN,Feeling Beautiful Honeydew & Chamomile Sleeping Mask,Rp. 135.000,3.5,209.0
+Sleeping Mask,Innisfree,Capsule Recipe Pack,Rp. 40.000,4.0,196.0
+Sleeping Mask,Innisfree,Capsule Recipe Pack,Rp. 40.000,4.3,92.0
+Sleeping Mask,Innisfree,Green Tea Sleeping Pack,Rp. 160.000,3.9,178.0
+Sleeping Mask,Vienna,Face Mask Sleeping Anti Acne,Rp. 16.500,3.7,158.0
+Sleeping Mask,Klairs,Freshly Juiced Vitamin E Mask,Rp. 390.000,4.2,157.0
+Sleeping Mask,The Body Shop,DROPS OF YOUTH Bouncy Sleeping Mask,Rp. 439.000,4.1,156.0
+Sleeping Mask,Azarine Cosmetics,Cooling Water Sleeping Mask,Rp. 57.500,4.5,141.0
+Mask Sheet,Garnier,Serum Mask Hydra Bomb Green Tea,Rp. 22.800,4.3,1477.0
+Mask Sheet,Garnier,Serum Mask Sakura White,Rp. 22.900,4.2,1012.0
+Mask Sheet,Mediheal,Teatree Care Solution Essential Mask EX,Rp. 38.900,4.5,964.0
+Mask Sheet,Mediheal,N.M.F Aquaring Ampoule Mask EX,Rp. 34.900,4.6,547.0
+Mask Sheet,Emina,Masquerade Face Mask,Rp. 14.500,4.2,542.0
+Mask Sheet,Emina,Masquerade Face Mask,Rp. 14.500,4.2,502.0
+Mask Sheet,Emina,Masquerade Face Mask,Rp. 14.500,4.4,316.0
+Mask Sheet,Emina,Masquerade Face Mask,Rp. 14.500,4.2,243.0
+Mask Sheet,Emina,Masquerade Face Mask,Rp. 14.500,4.3,221.0
+Mask Sheet,Garnier,Serum Mask Hydra Bomb Light Complete,Rp. 19.000,4.0,489.0
+Mask Sheet,Wardah,Black Serum Mask Pure Charcoal,Rp. 19.000,4.4,456.0
+Mask Sheet,Innisfree,My Real Squeeze Mask,Rp. 19.000,4.3,444.0
+Mask Sheet,Innisfree,My Real Squeeze Mask,Rp. 19.000,4.4,408.0
+Mask Sheet,Innisfree,My Real Squeeze Mask,Rp. 19.000,4.3,273.0
+Mask Sheet,Pond's,Instabright Tone Up Milk Mask,Rp. 18.500,3.9,389.0
+Mask Sheet,Pond's,Instabright Tone Up Milk Mask,Rp. 18.500,4.0,259.0
+Mask Sheet,Garnier,Serum Mask Hydra Bomb Pomegranate,Rp. 18.000,4.2,389.0
+Mask Sheet,Nature Republic,Real Nature Mask Sheet,Rp. 40.000,4.2,387.0
+Mask Sheet,Nature Republic,Real Nature Mask Sheet,Rp. 40.000,4.3,285.0
+Mask Sheet,Nature Republic,Real Nature Mask Sheet,Rp. 40.000,4.3,268.0
+Mask Sheet,Nature Republic,Real Nature Mask Sheet,Rp. 40.000,4.1,229.0
+Mask Sheet,Nature Republic,Real Nature Mask Sheet,Rp. 40.000,4.4,221.0
+Mask Sheet,Ariul,7 Days Mask,Rp. 15.000,4.2,381.0
+Mask Sheet,Ariul,7 Days Mask,Rp. 15.000,4.2,302.0
+Mask Sheet,Ariul,7 Days Mask,Rp. 15.000,4.2,240.0
+Mask Sheet,Ariul,7 Days Mask,Rp. 15.000,4.1,219.0
+Mask Sheet,Mediheal,I.P.I Lightmax Ampoule Mask EX,Rp. 0,4.6,381.0
+Mask Sheet,Hanasui,Hanasui,Rp. 20.000,2.4,359.0
+Mask Sheet,Naruko,Tea Tree Shine Control & Blemish Clear Mask,Rp. 25.000,4.6,357.0
+Mask Sheet,Mentholatum Beauty Mask,Double Whitening,Rp. 24.900,4.2,341.0
+Mask Sheet,Nature Republic,real nature mask sheet,Rp. 20.000,4.3,338.0
+Mask Sheet,SK-II,Facial Treatment Mask,Rp. 909.000,4.4,330.0
+Nose Pack,Biore,Pore Pack,Rp. 10.000,3.2,3980.0
+Nose Pack,Biore,Pore Pack,Rp. 10.000,3.1,527.0
+Nose Pack,Biore,Pore Pack,Rp. 10.000,3.4,479.0
+Nose Pack,Biore,Pore Pack,Rp. 10.000,3.6,438.0
+Nose Pack,Biore,Pore Pack,Rp. 10.000,3.1,338.0
+Nose Pack,Some by Mi,Bye Bye Blackheads 30 Days Miracle Green Tea Tox,Rp. 170,4.0,360.0
+Nose Pack,Acnes,Pore Strip,Rp. 10.000,3.9,256.0
+Nose Pack,Vienna,Peel Off Charcoal Black Head Nose Pack,Rp. 14.000,2.2,160.0
+Nose Pack,Hut Mun Gel,Hut Mun Gel,Rp. 15.500,4.2,150.0
+Nose Pack,Biore,Men Pore Pack,Rp. 20.000,4.1,144.0
+Nose Pack,Brunbrun Paris,Blackhead Nose Mask,Rp. 29.900,1.9,142.0
+Nose Pack,Natural Hut,hutmun gel,Rp. 25,4.4,86.0
+Nose Pack,Envygreen,Comedo Mask,Rp. 53.000,4.5,80.0
+Nose Pack,Bioaqua,Remove Blackhead Mask with Activated Charcoal,Rp. 0,2.9,70.0
+Nose Pack,QIANSOTO,Fruits and Vegetables Natural Mud Mask,Rp. 10.000,4.1,59.0
+Nose Pack,Vienna,Blackheads Remover,Rp. 22.000,3.5,57.0
+Nose Pack,Holika Holika,PIG NOSE CLEAR BLACKHEAD 3 STEP KIT,Rp. 47.000,4.0,52.0
+Nose Pack,The Face Shop,Blackhead Out White Clay Nose Pack,Rp. 90.000,3.5,36.0
+Nose Pack,Innisfree,Jeju Volcanic 3 in 1 Nose Pack,Rp. 75.000,3.7,33.0
+Nose Pack,Nature Republic,Blackhead Clear 3-Step Nose Pack,Rp. 23.000,3.6,29.0
+Wash-Off,Himalaya,Purifying Neem Mask,Rp. 25.000,4.2,4904.0
+Wash-Off,Innisfree,Super Volcanic Pore Clay Mask,Rp. 140.000,4.1,2798.0
+Wash-Off,The Body Shop,Himalayan Charcoal Purifying Glow Mask,Rp. 349.000,4.5,2032.0
+Wash-Off,Aztec Secret,Indian Healing Clay,Rp. 240.000,4.2,1455.0
+Wash-Off,LUSH,Mask of Magnaminty Face and Body Mask,Rp. 250.000,4.3,1314.0
+Wash-Off,FREEMAN,Detoxifying Charcoal + Black Sugar Mud Mask,Rp. 150.000,4.2,1200.0
+Wash-Off,Mustika Ratu,Masker Bengkoang Tube,Rp. 21.000,3.5,1180.0
+Wash-Off,FREEMAN,Oil Absorbing Mint + Lemon Clay Mask,Rp. 150.000,4.1,1072.0
+Wash-Off,Garnier,Pure Active Matcha Deep Clean Blackhead and Pore Purifying Clay Mask,Rp. 17.000,3.2,1017.0
+Wash-Off,Innisfree,Super Volcanic Pore Clay Mask 2X,Rp. 190.000,4.3,997.0
+Wash-Off,Garnier,Light Complete Whitening Peel Off Mask,Rp. 15.000,3.2,980.0
+Wash-Off,Jafra,Mud Mask,Rp. 345.000,3.9,730.0
+Wash-Off,Emina,Green Tea Latte Face Mask,Rp. 28.000,2.9,685.0
+Wash-Off,FREEMAN,Polishing Charcoal + Black Sugar Gel Mask + Scrub,Rp. 150.000,4.0,663.0
+Wash-Off,The Body Shop,Chinese Ginseng & Rice Clarifying Polishing Mask,Rp. 329.000,4.4,640.0
+Wash-Off,Mustika Ratu,Masker Bengkoang Bubuk,Rp. 10.000,3.9,596.0
+Wash-Off,RTSY,Tea Tree Oil Clay Mask,Rp. 20.000,3.6,586.0
+Wash-Off,Vienna,Face Spa Peel Off Mask,Rp. 10.000,2.8,585.0
+Wash-Off,Ovale,Facial Mask,Rp. 8.000,3.3,504.0
+Wash-Off,Laneige,Clear-C Peeling Mask,Rp. 250.000,4.4,461.0
+Facial Wash,StriVectin,Gentle Skin Cleanser,Rp. 112.000,4.1,
+Facial Wash,Hada Labo,Tamagohada Mild Peeling Face Wash,Rp. 35.000,4.0,4194.0
+Facial Wash,Acnes,Creamy Wash,Rp. 29.000,3.6,4070.0
+Facial Wash,Sariayu,Foaming Face Wash,Rp. 16.000,3.2,3530.0
+Facial Wash,Senka,Perfect Whip Facial Foam,Rp. 200.000,4.0,3484.0
+Facial Wash,Hada Labo,Gokujyun Ultimate Moisturizing Face Wash,Rp. 30.000,4.2,2937.0
+Facial Wash,The Body Shop,Tea Tree Skin Clearing Facial Wash,Rp. 109.000,3.6,2620.0
+Facial Wash,Cosrx,Low pH Good Morning Gel Cleanser,Rp. 130.000,4.0,2170.0
+Facial Wash,Hada Labo,Shirojyun Ultimate Whitening Face Wash,Rp. 24.000,3.7,1702.0
+Facial Wash,Wardah,Lightening Micellar Gentle Wash,Rp. 0,3.1,1239.0
+Facial Wash,Himalaya,Purifying Neem Face Wash,Rp. 25.000,3.6,1224.0
+Facial Wash,Emina,Bright Stuff Face Wash,Rp. 16.000,3.9,1181.0
+Facial Wash,Garnier,Pure Active Matcha De-Tox Pollution & Oil Deep Clean Foam,Rp. 23.900,3.5,1132.0
+Facial Wash,Pond's,White Beauty Spot-less Rosy White Facial Foam,Rp. 22,3.3,1101.0
+Facial Wash,Garnier,Sakura White Pinkish Glow Whip Foam,Rp. 19.000,3.7,1042.0
+Facial Wash,Pond's,Acne Solution AntiAcne Facial Foam,Rp. 25.000,3.4,1012.0
+Facial Wash,NIVEA,Sparkling White Facial Foam,Rp. 20.000,3.7,948.0
+Facial Wash,Simple,Refreshing Facial Wash Gel,Rp. 55.000,4.4,875.0
+Facial Wash,Acnes,Natural Care Complete White Face Wash,Rp. 27.000,3.6,838.0
+Facial Wash,Pond's,Pure White Polution D-TOXX,Rp. 0,3.5,766.0
+Cream & Lotion,Viva Cosmetics,Milk Cleanser,Rp. 6.400,4.0,3140.0
+Cream & Lotion,Viva Cosmetics,Milk Cleanser,Rp. 6.400,3.9,1126.0
+Cream & Lotion,Viva Cosmetics,Milk Cleanser,Rp. 6.400,4.1,1063.0
+Cream & Lotion,Viva Cosmetics,Milk Cleanser,Rp. 6.400,4.0,494.0
+Cream & Lotion,Viva Cosmetics,Milk Cleanser,Rp. 6.400,4.1,315.0
+Cream & Lotion,Viva Cosmetics,Milk Cleanser,Rp. 6.400,3.5,65.0
+Cream & Lotion,Heimish,All Clean Balm,Rp. 220.000,4.4,590.0
+Cream & Lotion,The Body Shop,Camomile Sumptuos Cleansing Butter,Rp. 139.000,4.4,564.0
+Cream & Lotion,Viva Cosmetics,Viva Milk Cleanser,Rp. 6.500,4.1,473.0
+Cream & Lotion,Viva Cosmetics,Viva Milk Cleanser,Rp. 6.500,4.3,44.0
+Cream & Lotion,Wardah,Lightening Cleansing Milk,Rp. 19.000,3.6,260.0
+Cream & Lotion,Pond's,White Beauty Cleansing Milk,Rp. 19.000,3.5,235.0
+Cream & Lotion,Innisfree,Jeju Volcanic Black Head Out Balm,Rp. 80.000,3.1,173.0
+Cream & Lotion,Sariayu,Refreshing Aromatic Cleanser,Rp. 8.000,3.4,150.0
+Cream & Lotion,NIVEA,Makeup Clear Cleansing Milk,Rp. 35.000,3.1,133.0
+Cream & Lotion,Wardah,White Secret Pure Brightening Cleanser,Rp. 30.000,3.6,127.0
+Cream & Lotion,Envygreen,Skin Balancer,Rp. 49.000,4.5,106.0
+Cream & Lotion,Viva Cosmetics,Viva Milk Cleancer Bengkuang,Rp. 8.000,4.3,100.0
+Cream & Lotion,Acnes,Natural Care Milk Cleanser Oil Control,Rp. 22.000,3.7,98.0
+Oil,Biore,Cleansing Oil,Rp. 101.500,4.1,1672.0
+Oil,Biore,Cleansing Oil,Rp. 101.500,4.3,50.0
+Oil,Biore,Cleansing Oil,Rp. 101.500,4.1,41.0
+Oil,Hada Labo,Gokujyun Ultimate Moisturizing Cleansing Oil,Rp. 30.000,4.2,786.0
+Oil,The Body Shop,Camomile Silky Cleansing Oil,Rp. 139.000,3.9,291.0
+Oil,Emina,Trace Less Oil Cleanser,Rp. 41.000,3.6,252.0
+Oil,NIVEA,Soothing Cleansing Oil Face & Eyes With Natural Grape Seed Oil,Rp. 74.000,4.1,242.0
+Oil,Biore,Makeup Remover Cleansing Oil Sheet,Rp. 21.900,4.6,221.0
+Oil,DHC,Deep Cleansing Oil,Rp. 370.000,4.3,204.0
+Oil,KOSE Cosmeport,Softymo Cleansing Oil,Rp. 150.000,4.4,196.0
+Oil,KOSE Cosmeport,Softymo Cleansing Oil,Rp. 150.000,4.2,128.0
+Oil,Mustika Ratu,Minyak Zaitun,Rp. 32.7,4.7,47.0
+Oil,Mustika Ratu,Minyak Zaitun,Rp. 32.7,4.3,150.0
+Oil,Skin1004,Madagascar Centella Light Cleansing Oil,Rp. 240.000,4.4,134.0
+Oil,Innisfree,Apple Seed Cleansing Oil,Rp. 190.000,4.2,110.0
+Oil,RCMA Makeup,Gentle Black Deep Cleansing Oil,Rp. 330.000,4.0,108.0
+Oil,SK-II,Facial Treatment Cleansing Oil,Rp. 640.200,4.0,103.0
+Oil,Laneige,Perfect Pore Cleansing Oil,Rp. 400.000,4.0,95.0
+Oil,Sulwhasoo,Gentle Cleansing Oil,Rp. 490.000,4.3,84.0
+Oil,The Face Shop,Rice Water Bright Cleansing Light Oil,Rp. 137.000,3.7,80.0
+Oil,Laneige,Fresh Brightening Cleansing Oil,Rp. 400.000,4.2,78.0
+Oil,NIVEA,Hydrating Cleansing Oil Face & Eye With Natural Coconut Oil,Rp. 74.000,4.1,72.0
+Oil,Senka,All Clean Oil,Rp. 190,4.0,68.0
+Makeup Remover,Garnier,Micellar Cleansing Water All-in-1 Makeup Remover & Cleanser,Rp. 50.000,4.3,9312.0
+Makeup Remover,Garnier,Micellar Cleansing Water All-in-1 Makeup Remover & Cleanser,Rp. 50.000,4.2,3734.0
+Makeup Remover,Garnier,Micellar Oil-Infused Cleansing Water,Rp. 39.000,4.3,3632.0
+Makeup Remover,Bioderma,Sensibio H2O,Rp. 238.000,4.5,2981.0
+Makeup Remover,Pond's,Vitamin Micellar Water,Rp. 25.000,4.1,1112.0
+Makeup Remover,Pond's,Vitamin Micellar Water,Rp. 25.000,4.4,214.0
+Makeup Remover,Wardah,Seaweed Cleansing Micellar Water,Rp. 27.000,4.1,1074.0
+Makeup Remover,NIVEA,Micellair Skin Breathe Xpert Makeup Remover Micellar Water,Rp. 35.000,4.2,1047.0
+Makeup Remover,NIVEA,Make Up Clear Micellar Water,Rp. 53.500,3.5,875.0
+Makeup Remover,Safi,White Expert Purifying Makeup Remover,Rp. 45.000,4.4,730.0
+Makeup Remover,PIXY,Cleansing Express,Rp. 11.000,3.9,611.0
+Makeup Remover,PIXY,Cleansing Express,Rp. 11.000,3.9,368.0
+Makeup Remover,Corine de Farme,Purity Micellar Water,Rp. 190.000,3.9,586.0
+Makeup Remover,NIVEA,MicellAIR Skin Breathe,Rp. 48.000,4.3,556.0
+Makeup Remover,NIVEA,MicellAIR Skin Breathe,Rp. 48.000,4.4,299.0
+Makeup Remover,Biore,Perfect Cleansing Water,Rp. 68.000,4.6,500.0
+Makeup Remover,Biore,Perfect Cleansing Water,Rp. 68.000,4.6,422.0
+Makeup Remover,Bioderma,Sebium H2O,Rp. 219.000,4.2,487.0
+Makeup Remover,Pond's,White Beauty Shake & Clean,Rp. 19.500,3.1,485.0
+Makeup Remover,Ovale,Micellar Cleansing Water,Rp. 34.000,3.9,450.0
+Makeup Remover,Ovale,Micellar Cleansing Water,Rp. 34.000,4.6,345.0
+Makeup Remover,Ovale,Micellar Cleansing Water,Rp. 34.000,4.1,170.0
+Makeup Remover,Banila Co,Clean it Zero,Rp. 250.000,4.4,396.0
+Makeup Remover,Simple,Cleansing Facial Wipes,Rp. 49.900,4.4,357.0
+Scrub & Exfoliator,St. Ives,Fresh Skin Apricot Scrub,Rp. 69.000,4.2,3933.0
+Scrub & Exfoliator,St. Ives,Acne Control Apricot Scrub,Rp. 55.000,4.2,2311.0
+Scrub & Exfoliator,St. Ives,Gentle Smoothing Oatmeal Scrub & Mask,Rp. 69.000,4.2,2039.0
+Scrub & Exfoliator,Neogen,Bio-Peel Gauze Peeling,Rp. 400.000,4.3,1031.0
+Scrub & Exfoliator,Neogen,Bio-Peel Gauze Peeling,Rp. 400.000,4.4,488.0
+Scrub & Exfoliator,Neogen,Bio-Peel Gauze Peeling,Rp. 400.000,4.3,217.0
+Scrub & Exfoliator,Cosrx,One Step Original Clear Pad,Rp. 240.000,4.0,969.0
+Scrub & Exfoliator,Cosrx,BHA Blackhead Power Liquid,Rp. 235.000,3.9,859.0
+Scrub & Exfoliator,Cosrx,AHA 7 Whitehead Power Liquid,Rp. 205.000,4.2,842.0
+Scrub & Exfoliator,Emina,Apricot Jam Face Scrub,Rp. 25.000,4.0,809.0
+Scrub & Exfoliator,St. Ives,Radiant Skin Pink Lemon & Mandarin Orange Scrub,Rp. 55.000,4.3,769.0
+Scrub & Exfoliator,Himalaya,Purifying Neem Scrub,Rp. 21.000,3.7,607.0
+Scrub & Exfoliator,Wardah,Lightening Gentle Exfoliator,Rp. 0,3.2,509.0
+Scrub & Exfoliator,SKINFOOD,Black Sugar Mask Wash Off,Rp. 239.000,4.1,455.0
+Scrub & Exfoliator,Safi,White Expert Deep Exfoliator,Rp. 46.800,4.3,384.0
+Scrub & Exfoliator,Wardah,White Secret Exfoliating Lotion,Rp. 70.000,3.7,377.0
+Scrub & Exfoliator,Garnier,Pure Active Anti-Acne White Acne & Oil Clearing Scrub,Rp. 15.500,3.3,373.0
+Scrub & Exfoliator,Pond's,Clear Solutions AntiBacterial + Oil Control Facial Foam,Rp. 15.000,3.5,317.0
+Scrub & Exfoliator,St. Ives,Blackhead Clearing Green Tea Scrub,Rp. 55.000,4.1,285.0
+Scrub & Exfoliator,St. Ives,Energizing Coconut & Coffee Scrub,Rp. 69.000,4.3,279.0
+Scrub & Exfoliator,Bio-Essence,Royal Jelly + ATP Deep Exfoliating Gel,Rp. 134.000,4.2,276.0
+Toner,Innisfree,AHA BHA PHA 30 Days Miracle Toner,Rp. 189.000,3.8,3850.0
+Toner,Hada Labo,Gokujyun Ultimate Moisturizing Lotion,Rp. 29.000,4.4,3682.0
+Toner,Viva Cosmetics,Air Mawar,Rp. 4.800,4.2,3456.0
+Toner,Viva Cosmetics,Face Tonic,Rp. 5.950,4.1,2974.0
+Toner,Viva Cosmetics,Face Tonic,Rp. 5.950,3.7,1098.0
+Toner,Viva Cosmetics,Face Tonic,Rp. 5.950,3.9,1079.0
+Toner,Viva Cosmetics,Face Tonic,Rp. 5.950,4.0,355.0
+Toner,Cosrx,AHA/BHA Clarifying Treatment Toner,Rp. 190.000,3.9,2873.0
+Toner,Imju Naturie,Hatomugi Skin Conditioner,Rp. 115.000,4.2,2096.0
+Toner,Benton,Aloe BHA Skin Toner,Rp. 230.000,3.9,1883.0
+Toner,Hada Labo,Gokujyun Ultimate Moisturizing Light Lotion,Rp. 30.000,4.2,1804.0
+Toner,Pixi,Glow Tonic,Rp. 0,4.2,1682.0
+Toner,The Body Shop,Tea Tree Skin Clearing Toner,Rp. 159.000,3.5,1392.0
+Toner,AVOSKIN,Miraculous Refining Toner,Rp. 169.000,4.3,1225.0
+Toner,Somethinc,White Expert Purifying Cleanser 2 in 1 Cleanser & Toner,Rp. 54.000,3.8,1094.0
+Toner,Hada Labo,Shirojyun Ultimate Whitening Lotion,Rp. 59.000,3.8,1083.0
+Toner,Klairs,Supple Preparation Facial Toner,Rp. 300.000,4.4,1025.0
+Toner,Viva Cosmetics,Astringent,Rp. 5.300,3.9,961.0
+Toner,Clean And Clear,Oil Control Toner,Rp. 0,3.4,801.0
+Toner,Pyunkang Yul,Essence Toner,Rp. 253,4.2,803.0
+Day Cream,Some by Mi,AHA BHA PHA 30 Days Miracle Cream,Rp. 0,3.8,339.0
+Day Cream,Olay,Total Effects 7 in 1 Day Cream SPF 15,Rp. 149.900,3.8,336.0
+Day Cream,Olay,Total Effects 7 in 1 Day Cream SPF 15,Rp. 149.900,3.9,313.0
+Day Cream,Laneige,White Dew Tone-up Cream,Rp. 560.000,4.1,320.0
+Day Cream,The Ordinary,Natural Moisturizing Factors + HA,Rp. 0,4.0,315.0
+Day Cream,Kiehl's,Ultra Facial Cream,Rp. 465.000,4.3,303.0
+Day Cream,Emina,Bright Stuff Moisturizing Cream,Rp. 22.000,4.0,295.0
+Day Cream,Pond's,Flawless White Visible Lightening Day Cream SPF 18/PA++,Rp. 70.000,3.3,289.0
+Day Cream,SK-II,RNA Power Radical Radical New Age,Rp. 219,4.1,281.0
+Day Cream,Nameera,Pure Radiant Glow Perfecting Day Cream SPF 30 PA +++,Rp. 120.000,3.7,277.0
+Day Cream,Wardah,Acne Perfecting Moisturizer Gel,Rp. 26.000,3.1,272.0
+Day Cream,PIXY,White Aqua Gel Cream Day Cream,Rp. 28.000,3.8,268.0
+Day Cream,L'Oreal Paris,White Perfect Clinical Day Cream,Rp. 160.000,3.8,265.0
+Day Cream,Wardah,Aloe Hydramild Moisturizer Cream,Rp. 16.000,3.7,264.0
+Day Cream,Pond's,White Beauty Day Cream,Rp. 18.000,3.6,256.0
+Day Cream,Sariayu,Putih Langsat Skin Brightening Moisturizer,Rp. 45.000,3.5,245.0
+Day Cream,Imju Naturie,Hatomugi Skin Conditioning Gel,Rp. 0,4.0,245.0
+Day Cream,Safi,Naturally Bright Brightening Cream,Rp. 49.000,3.4,229.0
+Day Cream,Safi,White Natural Oil Control & Anti Acne Cream,Rp. 29.900,3.9,218.0
+Day Cream,Benton,Snail Bee High Content Steam Cream,Rp. 300.000,3.8,218.0
+Sun Protection,Boscia,Daily UV Protection Cream No Sebum,Rp. 150.000,3.6,189.0
+Sun Protection,Votre Peau,Facial Sun Shield SPF 50,,4.1,189.0
+Sun Protection,L'Oreal Paris,UV PERFECT Aqua Essence Advanced Watery Gel SPF 50+ | PA ++++,Rp. 110.000,4.4,187.0
+Sun Protection,Kiehl's,Ultra Light Daily UV Defense SPF 50 PA+++,Rp. 450.000,4.0,185.0
+Sun Protection,Biore,UV Aqua Rich Watery Gel SPF 50+/PA++++,Rp. 145.000,4.2,165.0
+Sun Protection,Ristra,Sun Care,Rp. 77.000,3.7,158.0
+Sun Protection,Biore,UV Aqua Rich Watery Essence SPF 50+ PA ++++,Rp. 133.000,4.3,158.0
+Sun Protection,Skin Aqua,Tone Up UV Essence SPF50+ PA++++,Rp. 150.000,4.2,157.0
+Sun Protection,Klairs,Soft Airy UV Essence,Rp. 325.000,4.4,141.0
+Sun Protection,Biore,UV Aqua Rich Watery Essence Cool,Rp. 0,4.3,139.0
+Sun Protection,Wardah,Wardah Sun Care Sunscreen Gel,Rp. 0,3.3,138.0
+Sun Protection,Skin Aqua,Skin Aqua UV Moisture Gel,Rp. 30,3.9,121.0
+Sun Protection,For Skin's Sake (FSS),Weightless Sunscreen SPF 50 PA++++,Rp. 190.000,4.4,120.0
+Sun Protection,Skin Aqua,Skin Aqua UV Moisture Gel SPF 30 PA ++,Rp. 41.000,4.1,113.0
+Sun Protection,Parasol,Face Sunscreen Cream SPF 30,Rp. 34.000,3.6,107.0
+Sun Protection,The Body Shop,Skin Defence Multi Protection Face Mist SPF 45 PA++,Rp. 349.000,3.4,106.0
+Sun Protection,NACIFIC,Nacific Fresh Herb Origin Sun Block,Rp. 150.000,4.3,100.0
+Sun Protection,Krave Beauty,The Beet Shield/Beet The Sun,Rp. 0,4.3,96.0
+Sun Protection,L'Oreal Paris,UV Perfect Instant White SPF50,Rp. 80.000,3.8,97.0
+Lotion & Emulsion,Clinique,Dramatically Different Moisturizing Lotion Plus,Rp. 500.000,3.8,193.0
+Lotion & Emulsion,Acnes,Oil Control and Whitening Cream,Rp. 39.500,3.4,193.0
+Lotion & Emulsion,Wardah,Purifying Moisturizer Gel,Rp. 22.000,3.1,184.0
+Lotion & Emulsion,Wardah,Perfect Bright Lightening Moisturizer,Rp. 25.000,3.2,173.0
+Lotion & Emulsion,Simple,Hydrating Light Moisturiser,Rp. 109.000,4.0,170.0
+Lotion & Emulsion,Garnier,Pure Active Acne Care Whitening Cream,Rp. 20.000,3.5,165.0
+Lotion & Emulsion,SK-II,Cellumination Deep Surge Ex,Rp. 1.667.000,3.9,162.0
+Lotion & Emulsion,Joylab,Moisture Bomb Pudding Gel Creme,Rp. 145.000,4.2,156.0
+Lotion & Emulsion,Laneige,Essential Balancing Emulsion,Rp. 380.000,4.3,142.0
+Lotion & Emulsion,Guardian,Beauty K Jeju Fresh Aloe,Rp. 75.000,3.7,141.0
+Lotion & Emulsion,Clean And Clear,Clear Fairness Moisturizer SPF 15,Rp. 15.000,3.3,141.0
+Lotion & Emulsion,Celebon,My Lemon Juicy Gel,Rp. 109.000,3.9,139.0
+Lotion & Emulsion,Neutrogena,Hydro Boost Water Gel,Rp. 200.000,4.2,135.0
+Lotion & Emulsion,Wardah,wardah aloe vera multifunction gel,Rp. 28.000,3.1,126.0
+Lotion & Emulsion,Wardah,Nature Daily,Rp. 35.000,3.4,125.0
+Lotion & Emulsion,Sukin,Facial Moisturiser,Rp. 180.000,4.0,122.0
+Lotion & Emulsion,Viva Cosmetics,Pelembab,Rp. 6.350,3.5,111.0
+Lotion & Emulsion,APIEU,Madecassoside Cream,Rp. 0,3.8,109.0
+Lotion & Emulsion,Clinique,Clarifying Lotion 2,Rp. 367.000,3.3,101.0
+Lotion & Emulsion,Clinique,Dramatically Different Hydrating Jelly,Rp. 28,4.2,97.0
+Face Oil,Kiehl's,Daily Reviving Concentrate,Rp. 775.000,3.8,68.0
+Face Oil,Sensatia Botanicals,Cleopatra's Rose Facial Hydrate,Rp. 165.000,4.3,68.0
+Face Oil,NIVEA,Virgin Marula Luxury Facial Oil,Rp. 945.360,4.1,66.0
+Face Oil,Botanicabeauty.id,Grapeseed Serum Oil,Rp. 50.000,3.9,64.0
+Face Oil,Haple,Pure Avocado oil,Rp. 59.000,3.9,64.0
+Face Oil,Roro Mendut,Acne Face Treatment Oil,Rp. 130.000,4.5,56.0
+Face Oil,Kleveru Organics,Rice Bran Face Oil,Rp. 58.000,3.8,55.0
+Face Oil,PURIVERA BOTANICALS,Jojoba Oil,Rp. 70.000,4.2,52.0
+Face Oil,PURIVERA BOTANICALS,Avocado Serum Oil,Rp. 55.000,4.0,46.0
+Face Oil,The Body Shop,Vitamin E Overnight Serum in Oil,Rp. 309.000,3.5,40.0
+Face Oil,Life-flo,Pure Tamanu Oil,Rp. 17,4.3,39.0
+Face Oil,Roro Mendut,Brightening Face Treatment Oil,Rp. 130.000,4.7,38.0
+Face Oil,Roro Mendut,Lifting Face Treatment Oil,Rp. 130.000,4.6,38.0
+Face Oil,Organic Supply Co.,Certified Organic Hemp Seed Oil,Rp. 160.000,4.3,37.0
+Face Oil,Trilogy,Rosehip Oil Light Blend,Rp. 435.000,4.3,36.0
+Eye Treatment,Estee Lauder,Advanced Night Repair Eye Serum,Rp. 750.000,4.1,22.0
+Eye Treatment,Envygreen,Eye Bag & Dark Circle Reducer,Rp. 95.000,4.2,22.0
+Eye Treatment,The Body Shop,Vitamin C Eye Reviver Duo,Rp. 319.000,2.6,20.0
+Eye Treatment,Tiff,Eye Roll,Rp. 65.000,2.8,19.0
+Eye Treatment,Kiehl's,Powerful-Strength Line-Reducing Eye-Brightening Concentrate,Rp. 720.000,3.6,18.0
+Eye Treatment,Sukin,ANTIOXIDANT EYE SERUM,Rp. 270.000,2.8,18.0
+Eye Treatment,Oriflame,Soothing Eye Contour Gel,Rp. 39.900,2.8,16.0
+Eye Treatment,Bioaqua,Bioaqua Eye Roll Care Eye Essence Serum,Rp. 19,4.0,15.0
+Eye Treatment,Larissa,Larissa Eye Treatment Serum,Rp. 50.000,2.0,15.0
+Eye Treatment,Natural Green,Expert Eye Gel Serum,Rp. 110.000,3.5,13.0
+Eye Treatment,Larissa,Eye treatment serum,Rp. 55.000,1.6,11.0
+Eye Treatment,Drunk Elephant,Shaba Complex Eye Serum,Rp. 1.116.050,3.2,10.0
+Eye Treatment,L'Oreal Paris,Triple Power™ Eye Treatment,Rp. 200.000,4.0,9.0
+Eye Treatment,Corine de Farme,Radiant and Anti-Tiredness Eye Care,Rp. 250.000,3.6,9.0
+Eye Treatment,Clinique,Moisture Surge Eye 96-Hour Hydro-Filler Concentrate,Rp. 34,4.1,7.0
+Eye Treatment,Estee Lauder,Advanced Night Repair Eye Concentrate,Rp. 0,4.9,7.0
+Eye Treatment,LT PRO,LT Pro Anti Age eye serum,Rp. 100.000,4.6,7.0
+Eye Treatment,The Face Shop,Raspberry Roots Depuffing Eye Gel,Rp. 229.000,2.2,7.0
+Eye Treatment,Somethinc,Game Changer Tripeptide Eye Concentrate Gel,Rp. 145.000,5.0,8.0
+Eye Treatment,La Mer,The Lifting Eye Serum,Rp. 245,5.0,6.0
+Brow & Lash Treatment,RapidLash,Eyelash & Eyebrow Enhancing Serum,Rp. 653.096.25,2.0,3.0
+Brow & Lash Treatment,APOTCARE,Optibrow Enhancing Serum,Rp. 560.000,2.0,2.0
+Brow & Lash Treatment,TALIKA,Lipocils Platinum Eyelash Serum,Rp. 0,4.5,2.0
+Brow & Lash Treatment,the Aubree,Lashes & Brows growth serum,Rp. 50.000,2.5,2.0
+Brow & Lash Treatment,Argania Organics,Miss Thique Brow and Lash Serum,Rp. 65.000,4.0,1.0
+Brow & Lash Treatment,DHC,DHC 3 in 1 eyelash serum,Rp. 0,4.0,1.0
+Brow & Lash Treatment,The Aesthetics Skin,A-Lash Wink Serum,Rp. 99.000,5.0,1.0
+Brow & Lash Treatment,APOTCARE,Optilash,Rp. 500.000,5.0,1.0
+Skin Soothing Treatment,N'pure,Cactus Aloe Vera Soothing Gel,Rp. 80.000,4.3,97.0
+Skin Soothing Treatment,Mediheal,Aloe Vera Hydrogel 92%,Rp. 0,4.2,97.0
+Skin Soothing Treatment,Viva Cosmetics,viva skinfood,Rp. 13.000,3.7,87.0
+Skin Soothing Treatment,Guardian,Guardian Aloe Vera Gel,Rp. 22,4.5,84.0
+Skin Soothing Treatment,Nu Skin,Enhancer Skin Conditioning Gel,Rp. 157.000,4.3,70.0
+Skin Soothing Treatment,The Face Shop,Jeju Aloe Ice Refreshing Soothing Gel,Rp. 120.000,4.1,61.0
+Skin Soothing Treatment,The Body Shop,Aloe Multi-Use Soothing Gel,Rp. 179.000,4.0,59.0
+Skin Soothing Treatment,Roro Mendut,GLOWING RED JELLY TREAMENT,Rp. 150.000,4.7,55.0
+Skin Soothing Treatment,Nature Republic,Cactus 92% Soothing Gel,Rp. 116.000,4.0,54.0
+Skin Soothing Treatment,the SAEM,aloe vera soothing gel 95%,Rp. 75.000,3.7,52.0
+Skin Soothing Treatment,Oriflame,Tender care,Rp. 40,4.7,52.0
+Skin Soothing Treatment,Sensatia Botanicals,Aloe Vera Botanical Gel,Rp. 70.000,4.4,52.0
+Skin Soothing Treatment,Mamonde,Rose Water Soothing Gel,Rp. 135.000,4.2,49.0
+Skin Soothing Treatment,Oriflame,Tendercare,Rp. 45.000,4.2,49.0
+Skin Soothing Treatment,Madame Gie,Protect Me Sunscreen,Rp. 29.000,4.0,50.0
+Skin Soothing Treatment,Roro Mendut,GLOWING GREEN JELLY TREATMENT,Rp. 150.000,4.4,50.0
+Skin Soothing Treatment,Rose All Day Cosmetics,Aloe-HA Aloe Vera Gel,Rp. 119.000,4.6,47.0
+Skin Soothing Treatment,the SAEM,Iceland Hydrating Soothing Gel,Rp. 149.000,4.0,45.0
+Skin Soothing Treatment,Some by Mi,Some By Mi Yuja Niacin 30 Days Brightening Starter Kit,Rp. 285.741,3.7,40.0
+Skin Soothing Treatment,Missha,Missha Premium Cica Aloe Soothing Gel,Rp. 90.000,4.5,34.0
+Acne Treatment,Safi,White Expert Oil Control & Anti Acne Cream,Rp. 43.000,3.5,299.0
+Acne Treatment,Jo Malone,Medi-Klin TR Gel,Rp. 50.000,3.6,295.0
+Acne Treatment,Nexcare,Acne Patch,Rp. 36.000,3.1,277.0
+Acne Treatment,Erha,Acne Spot Gel,Rp. 51.000,4.0,254.0
+Acne Treatment,Wardah,Acnederm Acne Spot Treatment Gel,Rp. 23.000,3.7,251.0
+Acne Treatment,Wardah,Acnederm Pore Blackhead Balm,Rp. 39.500,3.5,247.0
+Acne Treatment,Benzolac,CL,Rp. 32.000,3.8,247.0
+Acne Treatment,Nourish Beauty Care,Acne Plast,Rp. 18.300,4.2,244.0
+Acne Treatment,ElsheSkin,Acne Treatment Series,Rp. 285.000,3.0,239.0
+Acne Treatment,OXY,Oxy 10 Maximum Strength,Rp. 90.000,3.9,215.0
+Acne Treatment,Lionesse Gem Skin Care,Pair acne cream,Rp. 175.000,4.3,207.0
+Acne Treatment,Innisfree,Innisfree Bija Cica Balm,Rp. 330.000,4.2,195.0
+Acne Treatment,Envygreen,Acne Solution,Rp. 49.000,4.6,179.0
+Acne Treatment,Verile,Acne Blemish Cream,Rp. 25.000,3.5,179.0
+Acne Treatment,Acnol,Gel For Acne,Rp. 15.000,4.0,177.0
+Acne Treatment,Some by Mi,AHA BHA PHA 30 Days Miracle Starter Kit,Rp. 194.000,3.7,158.0
+Serum & Essence,Klairs,Freshly Juiced Vitamin Drop,Rp. 350.000,4.0,758.0
+Serum & Essence,Wardah,C-Defense Serum,Rp. 78.500,3.4,702.0
+Serum & Essence,Wardah,Primary Skin Hydrating Booster,Rp. 33.000,4.3,690.0
+Serum & Essence,AVOSKIN,Miraculous Refining Serum,Rp. 219.000,4.3,674.0
+Serum & Essence,Garnier,Light Complete Whitespeed Vitamin C Super Essence,Rp. 75.000,3.6,656.0
+Serum & Essence,Kiehl's,Clearly Corrective Dark Spot Solution,Rp. 870.000,4.0,587.0
+Serum & Essence,Estee Lauder,Advance Night Repair,Rp. 795.000,4.4,584.0
+Serum & Essence,Some by Mi,Yuja Niacin Serum,Rp. 189.000,4.1,554.0
+Serum & Essence,Secret Key,Starting Treatment Essence,Rp. 169.000,3.6,547.0
+Serum & Essence,iUNIK,Propolis Vitamin Synergy Serum,Rp. 0,4.0,521.0
+Serum & Essence,Missha,Time Revolution The First Treatment Essence,Rp. 360.000,4.0,515.0
+Serum & Essence,Laneige,Water Bank Essence EX,Rp. 550.000,4.2,478.0
+Serum & Essence,Wardah,White Secret Intense Brightening Essence,Rp. 64.000,3.6,473.0
+Serum & Essence,Azarine Cosmetics,C White Lightening Serum,Rp. 47.500,4.6,454.0
+Serum & Essence,Somethinc,HYALuronic B5,Rp. 115.000,4.3,448.0
+Serum & Essence,Kiehl's,Midnight Recovery Concentrate,Rp. 630.000,4.0,445.0
+Serum & Essence,Whitelab,Brightening Face Serum,Rp. 75.000,4.5,441.0
+Serum & Essence,Garnier,Light Complete Vitamin C 30X Booster Serum,Rp. 110.000,4.0,431.0
+Serum & Essence,Wardah,Lightening Facial Serum,Rp. 44.000,3.2,426.0
+Serum & Essence,The Body Shop,Tea Tree Daily Solution,Rp. 279.000,3.6,418.0
+Peeling,Thank You Farmer,Silver Powder,Rp. 381.982.5,3.5,49.0
+Peeling,ElsheSkin,Glowing Facial Peeling,Rp. 85.000,4.3,48.0
+Peeling,Drunk Elephant,Drunk Elephant Sukari Baby Facial,Rp. 0,4.3,48.0
+Peeling,DR. JART+,Home Peeling 2,Rp. 83.000,4.0,45.0
+Peeling,Laneige,Multiberry Yogurt Peeling Gel,Rp. 260.000,3.9,44.0
+Peeling,Laneige,White Plus Renew Skin Refiner,Rp. 320.000,4.1,43.0
+Peeling,Mustika Ratu,Face Peeling Gel,Rp. 35.000,3.1,40.0
+Peeling,So natural,Red Natural Tingle Serum,Rp. 0,4.6,40.0
+Peeling,Bali Alus,Peeling Face Cream Lovely,Rp. 28.000,3.2,38.0
+Peeling,The Face Shop,White Jewel Peeling,Rp. 220.000,3.9,37.0
+Peeling,Nu Skin,Polishing Peel,Rp. 312.000,3.6,36.0
+Peeling,Brunbrun Paris,Tomate Antioxidant Peeling,Rp. 69.900,3.6,33.0
+Peeling,Larissa,ACNE FACIAL PEELING,Rp. 60.000,3.5,28.0
+Peeling,Mustika Ratu,Peel off mask lemon,Rp. 28.700,3.1,26.0
+Peeling,Innisfree,Wine Peeling Jelly Softener,Rp. 158.430,3.9,25.0
+Peeling,The Ordinary,The Ordinary AHA 30% + BHA 2% Peeling Solutin,Rp. 0,4.2,23.0
+Peeling,Vienna,Vienna AHA Brightening & Exfoliating Peeling Gel,Rp. 8.000,3.6,23.0
+Peeling,Celebon,Peeling Pad,Rp. 23.000,3.1,21.0
+Peeling,Secret Key,Secret Key Lemon Sparkling Peeling Gel,Rp. 99.000,4.1,20.0
+Peeling,Holika Holika,Smooth Egg Peeling Gel,Rp. 90.000,4.3,19.0
+Sleeping Mask,Harlette,Oatmilk Sleeping Mask,Rp. 185.000,4.0,141.0
+Sleeping Mask,Quesella,Overnight Vitalizing Mask EX,Rp. 0,4.3,139.0
+Sleeping Mask,The Body Shop,Tea Tree Skin Clearing Night Mask,Rp. 289.000,3.8,124.0
+Sleeping Mask,Wardah,Nature Republic,Rp. 100,3.8,111.0
+Sleeping Mask,FREEMAN,Freeman Gel Cream Mask,Rp. 140.000,3.8,102.0
+Sleeping Mask,Innisfree,Whitening Pore Sleeping Pack,Rp. 320.000,3.7,96.0
+Sleeping Mask,Laneige,Laneige Lip Sleeping Mask,Rp. 299.000,4.7,92.0
+Sleeping Mask,FREEMAN,FREEMAN INFUSION,Rp. 170.000,3.6,91.0
+Sleeping Mask,Naruko,Tea Tree Shine Control & Blemish Clear Night Gelly,Rp. 296.000,4.1,87.0
+Sleeping Mask,Laneige,White Plus Renew Capsule Sleeping Pack,Rp. 49.000,4.2,76.0
+Sleeping Mask,The Body Shop,Tea Tree Anti-Imperfection Night Mask,Rp. 289,3.6,72.0
+Sleeping Mask,Laneige,Laneige Lip Sleeping Mask (Apple lime),Rp. 270.000,4.8,64.0
+Sleeping Mask,Natur,Natur Aloe Vera Sleeping Mask,Rp. 85.000,4.2,63.0
+Sleeping Mask,Wardah,White Secret Hydraglow Sleeping Mask,Rp. 0,4.1,58.0
+Sleeping Mask,Naruko,Rose & Botanic HA Aqua Cubic Night Gelly EX,Rp. 296.000,4.1,50.0
+Sleeping Mask,Laneige,Time Freeze Firming Sleeping Mask,Rp. 450.000,4.4,48.0
+Mask Sheet,Mediheal,Vita Lightbeam Essential Mask EX,Rp. 38.900,4.6,301.0
+Mask Sheet,Mentholatum Beauty Mask,Pore Refining,Rp. 24.900,3.9,247.0
+Mask Sheet,Mediheal,H.D.P Pore-Stamping Black Mask EX,Rp. 39.000,4.6,239.0
+Mask Sheet,Celebon,Collagen Essence Mask,Rp. 22.000,4.1,228.0
+Mask Sheet,Mediheal,Collagen impact essential mask,Rp. 15.000,4.5,227.0
+Mask Sheet,Garnier,Serum Mask Hydra Bomb Lavender,Rp. 19.000,4.3,222.0
+Mask Sheet,Mediheal,P.D.F. AC-Dressing Ampoule Mask EX,Rp. 38.900,4.6,215.0
+Mask Sheet,Garnier,Sakura White Pinkish Radiance Intensive Whitening Mask,Rp. 18.000,3.5,215.0
+Nose Pack,Vienna,Whitening Face Mask,Rp. 12.000,3.1,28.0
+Nose Pack,QIANSOTO,Qiansoto Peel Off Masque,Rp. 10.000,3.8,26.0
+Nose Pack,Innisfree,Jeju Volcanic Nose Pack - Pore Strip,Rp. 10.000,3.1,26.0
+Nose Pack,Breylee,Blackhead Mask,Rp. 65.000,4.6,20.0
+Nose Pack,Innisfree,Jeju Volcanic Liquid Nose Pack,Rp. 90.000,2.7,19.0
+Nose Pack,Celebon,3 Step Nose Clear Pad,Rp. 35.000,3.7,19.0
+Nose Pack,Watsons,Nose Pore Strip,Rp. 39.9,3.6,18.0
+Nose Pack,Watsons,Nose Pore Strip,Rp. 39.9,4.4,16.0
+Nose Pack,Watsons,Nose Pore Strip,Rp. 39.9,3.8,15.0
+Nose Pack,The Face Shop,White Mud Nose Pack,Rp. 75.000,3.5,13.0
+Nose Pack,Oriflame,Remove Blackheads 3-Step Kits,Rp. 7.000,4.4,13.0
+Nose Pack,Etude House,Green Tea Nose Patch,Rp. 50.000,3.1,12.0
+Nose Pack,Some by Mi,Diamond Brightening Glow Luminous Ampoule Mask,Rp. 0,3.5,12.0
+Nose Pack,Skin1004,Zombie Nose Pack,Rp. 21.000,4.3,12.0
+Nose Pack,Daiso,Nose pack,Rp. 40.000,2.4,12.0
+Nose Pack,Sophie Martin,Magic Pink Blackhead Nose Mask,Rp. 29.900,2.6,11.0
+Nose Pack,QIANSOTO,Peel Off Masque,Rp. 0,3.5,10.0
+Nose Pack,SHILLS,SHILLS BLACK MASK,Rp. 70,2.7,10.0
+Nose Pack,MY SCHEMING,Blackhead Acne Removal Activated Carbon 3 Steps Mask Set,Rp. 135.000,4.4,9.0
+Nose Pack,QIANSOTO,qiansoto peel off masque,Rp. 0,4.3,9.0
+Wash-Off,GlamGlow,Supermud Clearing Treatment,Rp. 1.075.000,4.3,455.0
+Wash-Off,SKINFOOD,Rice Mask Wash Off,Rp. 250.000,4.0,450.0
+Wash-Off,FREEMAN,Anti-Stress Dead Sea Minerals Clay Mask,Rp. 150.000,3.9,434.0
+Wash-Off,Innisfree,Jeju Volcanic Pore Clay Mask,Rp. 145.678,3.8,425.0
+Wash-Off,FREEMAN,Exfoliating Diamond Mineral Clay Mask + Scrub,Rp. 150.000,4.4,409.0
+Wash-Off,FREEMAN,Cleansing Apple Cider Vinegar Clay Mask + Scrub,Rp. 150.000,4.0,400.0
+Wash-Off,Sariayu,Krem Masker Jerawat,Rp. 22.000,3.4,347.0
+Wash-Off,FREEMAN,Golden Grain Facial Brightening Mask,Rp. 120.000,3.6,343.0
+Wash-Off,Beleaf,Organic Face Mask,Rp. 50.000,4.1,344.0
+Wash-Off,Luxcrime,Charcoal Mint Mud Mask,Rp. 129.000,4.4,339.0
+Wash-Off,Wardah,Lightening Blue Clay Mask,Rp. 30.000,3.1,338.0
+Wash-Off,FREEMAN,Deep Clearing Manuka Honey + Tea Tree Oil Clay Mask + Cleanser,Rp. 140.000,4.1,327.0
+Wash-Off,GlamGlow,Youthmud Tinglexfoliate Treatment,Rp. 890.000,4.0,325.0
+Wash-Off,pinklab co,Dead Sea Mask,Rp. 120.000,3.7,319.0
+Wash-Off,Pond's,Pure White Mineral Clay Mask,Rp. 15.000,4.1,319.0
+Wash-Off,Saripohatji,Bedak Dingin,Rp. 2.000,3.9,293.0
+Wash-Off,L'Oreal Paris,Pure Clay Mask,Rp. 149.000,3.9,285.0
+Wash-Off,Namo.ID,Namo Id Organic Mask,Rp. 50.000,3.9,278.0
+Wash-Off,FREEMAN,Purifying Avocado + Oatmeal Clay Mask,Rp. 150.000,3.9,272.0
+Wash-Off,Ovale,Facial Mask Bedak Dingin,Rp. 10.000,3.6,259.0
+Facial Wash,Clean And Clear,Daily Pore Cleanser,Rp. 20.000,2.9,751.0
+Facial Wash,Cetaphil,Oily Skin Cleanser,Rp. 195.000,3.8,631.0
+Facial Wash,Pantene,C-Defense Energizing Creamy Wash,Rp. 19.500,3.8,629.0
+Facial Wash,Senka,Perfect White Clay,Rp. 95.000,4.0,591.0
+Facial Wash,Sariayu,Acne Care Facial Foam,Rp. 15.000,3.6,529.0
+Facial Wash,Safi,White Expert Purifying Cleanser,Rp. 34.900,3.6,516.0
+Facial Wash,Caladine,Facial Foam,Rp. 18.000,3.4,510.0
+Facial Wash,Wardah,White Secret Facial Wash,Rp. 30.000,3.3,500.0
+Facial Wash,Clean And Clear,Natural Bright Face Wash,Rp. 21.000,3.2,484.0
+Facial Wash,Sensatia Botanicals,Tea Tree & Lemon Facial Cleanser,Rp. 130.000,4.2,473.0
+Facial Wash,SK-II,Facial Treatment Gentle Cleanser,Rp. 635.000,4.1,443.0
+Facial Wash,Wardah,Lightening Whip Facial Foam,Rp. 29.000,3.6,428.0
+Facial Wash,Senka,Perfect Whip,Rp. 60.000,3.9,428.0
+Facial Wash,Wardah,Nature Daily Aloe Hydramild Facial Wash,Rp. 21.000,3.9,424.0
+Facial Wash,The Body Shop,Vitamin E Gentle Facial Wash,Rp. 149.000,3.7,419.0
+Facial Wash,Nameera,So Pure & Radiant Hydrating Gel Cleanser,Rp. 35.000,3.9,416.0
+Facial Wash,Cosrx,Salicylic Acid Gentle Cleanser,Rp. 140.000,3.8,407.0
+Facial Wash,Garnier,Light Complete Multi-Action Brightening Foam,Rp. 20.000,2.8,394.0
+Facial Wash,Cetaphil,Daily Facial Cleanser,Rp. 130,4.2,389.0
+Facial Wash,Himalaya,Gentle Exfoliating Daily Face Wash,Rp. 18.000,3.7,381.0
+Cream & Lotion,Mustika Ratu,Pembersih Sari Jeruk Nipis,Rp. 10.200,3.7,95.0
+Cream & Lotion,SK-II,Facial Treatment Cleansing Gel,Rp. 522.500,4.1,92.0
+Cream & Lotion,RDL,Creamy Milk Cleansing Lotion,Rp. 23.000,3.0,91.0
+Cream & Lotion,Nameera,Nameera Purifying Cleanser,Rp. 30.000,3.9,84.0
+Cream & Lotion,Viva Cosmetics,viva milk cleanser dan viva face tonic,Rp. 6.000,4.2,78.0
+Cream & Lotion,Pond's,Cold Cream Cleansing Balm Makeup Remover,Rp. 145.000,4.2,72.0
+Cream & Lotion,Sariayu,Refreshing Aromatic Pembersih,Rp. 25.000,3.5,70.0
+Cream & Lotion,The Body Shop,Vitamin E Cream Cleanser,Rp. 129.000,3.7,60.0
+Cream & Lotion,Ovale,Ovale,Rp. 32.000,2.9,59.0
+Cream & Lotion,Envyme Cosmetics,Face Cleanser With Papaya Extract,Rp. 36.000,4.3,57.0
+Cream & Lotion,OXY,Extremely Gentle Cleansing Milk,Rp. 53.000,4.1,56.0
+Cream & Lotion,The Ordinary,Pembersih Sari Ketimun,Rp. 10.200,4.3,55.0
+Cream & Lotion,Biokos,Derma Bright Intensive Brightening Cleanser,Rp. 162.000,4.9,54.0
+Cream & Lotion,Mustika Ratu,Pembersih Sari Sekar Gambir,Rp. 20.000,4.3,52.0
+Cream & Lotion,Dear Me Beauty,30 Seconds Meltaway Balm,Rp. 149.000,4.6,50.0
+Cream & Lotion,Sariayu,Cleansing Milk,Rp. 10.000,3.7,50.0
+Cream & Lotion,L'Oreal Paris,Gentle Cleansing Milk,Rp. 70.000,3.8,47.0
+Cream & Lotion,NIVEA,Refreshing Cleansing Milk,Rp. 19.500,3.9,44.0
+Oil,Natural Green,Rasberry Cleansing Oil,Rp. 160.000,3.6,64.0
+Oil,Shu Uemura,Skin Purifier Anti/Oxi Skin Refining Anti Dullness Cleansing Oil,Rp. 370.000,4.5,53.0
+Oil,Sensatia Botanicals,Rejuvenating Pomegranate Cleansing Oil,Rp. 180.000,3.4,52.0
+Oil,Shu Uemura,Ultime8∞ Sublime Beauty Cleansing Oil,Rp. 1.700.000,4.3,52.0
+Oil,Shu Uemura,POREfinist anti-shine fresh cleansing oil,Rp. 513.848.49,4.5,47.0
+Oil,Innisfree,Apple Juicy Cleansing Oil,Rp. 180.000,3.7,45.0
+Oil,Senka,All Clear Oil Whip,Rp. 150.000,4.1,40.0
+Oil,Kiehl's,Midnight Recovery Botanical Cleansing Oil,Rp. 560.000,4.6,38.0
+Oil,Kracie,Naive Make Up Cleansing Oil,Rp. 100.000,3.6,34.0
+Oil,Banila Co,Clean It Zero,Rp. 0,4.3,32.0
+Oil,Manyo Factory,Manyo Factory Herb Green Cleansing Oil,Rp. 230,4.3,32.0
+Oil,Hada Labo,Gokujyun Cleansing Oil,Rp. 235.000,4.3,32.0
+Oil,Manyo Factory,Manyo Factory Pure Cleansing Oil,Rp. 230.000,4.3,30.0
+Oil,Shu Uemura,Blanc Chroma Cleansing Oil,Rp. 82,4.4,29.0
+Oil,L'Occitane,Shea Cleansing Oil,Rp. 375.000,4.2,27.0
+Oil,Luxcrime,Advance Natural Cleansing Oil,,3.8,26.0
+Oil,Three,Balancing Cleansing Oil,Rp. 570.000,4.3,24.0
+Oil,Nuxe,Huile Prodigieuse Multi-Usage Dry Oil,Rp. 448.000,3.7,21.0
+Makeup Remover,Shikada,Facial Cleansing Wipes,Rp. 25.000,3.4,316.0
+Makeup Remover,Pond's,Clear Solutions Shake & Clean,Rp. 30.000,3.3,304.0
+Makeup Remover,NIVEA,MicellAir Skin Breathe,Rp. 53.500,4.1,280.0
+Makeup Remover,NIVEA,MicellAir Skin Breathe,Rp. 53.500,4.1,248.0
+Makeup Remover,Biore,Makeup Remover Wipes,Rp. 30.000,4.2,276.0
+Makeup Remover,Maybelline,Clean Express Total Clean,Rp. 50.000,4.0,273.0
+Makeup Remover,Pond's,Makeup Remover Cleansing Balm,Rp. 92.000,4.3,272.0
+Makeup Remover,Pond's,Acne Solution Micellar Water,Rp. 25.000,3.7,235.0
+Makeup Remover,Corine de Farme,Micellar Gel Refreshing,Rp. 195.000,3.4,163.0
+Makeup Remover,Mustika Ratu,Pembersih Two In One Bengkoang Whitening,Rp. 15.000,3.8,161.0
+Makeup Remover,Emina,Micellar Water Drop Cleanser,Rp. 32.500,4.4,148.0
+Makeup Remover,Emina,Micellar Water Drop Cleanser,Rp. 32.500,4.0,136.0
+Makeup Remover,Clean And Clear,Clean and Clear Micellar Water,Rp. 24.000,3.9,130.0
+Makeup Remover,NIVEA,Pearl White MicellAIR Oxygen Boost,Rp. 0,4.1,127.0
+Makeup Remover,Watsons,Cleansing Water,Rp. 95.000,4.2,120.0
+Makeup Remover,Marcks,Teens Micellar Cleansing Water,Rp. 25.000,3.2,120.0
+Scrub & Exfoliator,Tiff,Scrub in Butter,Rp. 150.000,4.2,258.0
+Scrub & Exfoliator,Wardah,White Secret Exfoliating Scrub,Rp. 20.000,3.8,227.0
+Scrub & Exfoliator,Pond's,Ex-foliate Sun Dullness Daily Facial Scrub,Rp. 0,3.3,199.0
+Scrub & Exfoliator,Erha,ACNE CLEANSER SCRUB BETA PLUS,Rp. 98.000,4.4,198.0
+Scrub & Exfoliator,Emina,Sugar Rush Face Scrub,Rp. 52.500,3.6,167.0
+Scrub & Exfoliator,Sunday Riley,Good Genes,Rp. 1.700.000,4.3,161.0
+Scrub & Exfoliator,Hanasui,Body Spa,Rp. 21.500,3.5,128.0
+Scrub & Exfoliator,CURE,Natural Aqua Gel,Rp. 539.223,4.3,128.0
+Scrub & Exfoliator,LUSH,Bubblegum Lip Scrub,Rp. 132.950,4.2,122.0
+Scrub & Exfoliator,The Body Shop,Vitamin C Microdermabrasion,Rp. 279.000,3.1,118.0
+Scrub & Exfoliator,Jafra,JAFRA Gentle Exfoliating Scrub,Rp. 152.000,4.2,105.0
+Scrub & Exfoliator,Wardah,Acne Gentle Scrub,Rp. 23.000,3.1,104.0
+Scrub & Exfoliator,The Body Shop,Tea Tree Squeaky Clean Daily Scrub,Rp. 129.000,3.8,101.0
+Scrub & Exfoliator,The Body Shop,Tea Tree 3-in-1 Wash Scrub Mask,Rp. 269.000,4.0,96.0
+Scrub & Exfoliator,Kiehl's,Clearly Corrective White Skin Brightening Exfoliator Facial Cleanser,Rp. 380.000,4.3,87.0
+Scrub & Exfoliator,Nu Skin,Liquid Body Lufra,Rp. 113.000,4.2,84.0
+Scrub & Exfoliator,The Body Shop,Seaweed Pore Exfoliator,Rp. 169.000,3.4,84.0
+Scrub & Exfoliator,Sariayu,Putih Langsat Facial Scrub,Rp. 28.400,3.7,83.0
+Toner,Skin1004,Madagascar Centella Asiatica Toner,Rp. 180.000,4.0,793.0
+Toner,Wardah,Lightening Face Toner,Rp. 125.000,3.5,666.0
+Toner,NACIFIC,Real Floral Toner,Rp. 182.000,3.9,635.0
+Toner,Hada Labo,Gokujyun Alpha Ultimate Anti Aging Lotion,Rp. 50.000,4.1,624.0
+Toner,Simple,Soothing Facial Toner,Rp. 69.000,4.3,611.0
+Toner,SK-II,Facial Treatment Clear Lotion,Rp. 550.000,3.8,580.0
+Toner,Hada Labo,Gokujyun Premium Hyaluronic Acid Lotion,Rp. 250.000,4.5,565.0
+Toner,Klairs,Supple Preparation Unscented Facial Toner,Rp. 310.000,4.3,530.0
+Toner,Etude House,Wonder Pore Freshner,Rp. 300.000,3.2,521.0
+Toner,Kiehl's,Calendula Herbal Extract Alcohol-Free Toner,Rp. 420.000,4.3,461.0
+Toner,Emina,Bright Stuff Face Toner,Rp. 26.000,3.8,451.0
+Toner,Some by Mi,Snail Truecica Miracle Repair Toner,Rp. 250.000,3.9,438.0
+Toner,Wardah,Pore Tightening Toner,Rp. 28.500,2.7,402.0
+Toner,The Body Shop,Vitamin E Hydrating Toner,Rp. 169.000,4.1,398.0
+Toner,Paula's Choice,Skin Perfecting 2% BHA Liquid Exfoliant,Rp. 390.000,4.3,397.0
+Toner,Cosrx,Natural BHA Skin Returning A-Sol,Rp. 0,3.8,386.0
+Toner,Ovale,Facial Lotion,Rp. 15.000,2.9,372.0
+Toner,Cosrx,Centella Water Alcohol-Free Toner,Rp. 157.000,4.0,367.0
+Toner,Mamonde,Rose Water Toner,Rp. 193.300,4.2,355.0
