@@ -9,6 +9,14 @@ df = pd.read_csv('Skincare_Review/2/nyka_top_brands_cosmetics_product_reviews.cs
 
 df = df[['review_date','author','brand_name','product_title','price','review_rating','product_rating']]
 
+# membuat pilihan yang tersedia
+options = ['Olay', 'Nykaa Naturals', 'Nykaa Cosmetics', 'Nivea', 'NYX Professional Makeup', 'Maybelline New York', 'Lakme', "L'Oreal Paris", 'Kay Beauty', 'Herbal Essences']
+
+# membuat multiselect dengan label "Select your favorite brands"
+selected_options = st.multiselect('Select brands :', options)
+
+df = df.loc[df['brand'].isin(selected_options)]
+
 rule = pd.read_csv('Skincare_Review/2/result_rules.csv',sep=',')
 
 # Mengganti tanda kurung pada kolom 'items'
