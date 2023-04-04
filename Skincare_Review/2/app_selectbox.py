@@ -106,9 +106,11 @@ def search_nested_list(nested_list, search_string):
     return None
 
 def replace_nested_list_value(nested_list, search_string, replacement):
-    index = search_nested_list(nested_list, search_string)
-    if index is not None:
-        nested_list[index] = nested_list[index].replace(search_string, replacement)
+    for index, item in enumerate(nested_list):
+        if type(item) == list:
+            replace_nested_list_value(item, search_string, replacement)
+        elif type(item) == str and search_string in item:
+            nested_list[index] = item.replace(search_string, replacement)
 
 
 # Cari dan ganti nilai dalam nested list
