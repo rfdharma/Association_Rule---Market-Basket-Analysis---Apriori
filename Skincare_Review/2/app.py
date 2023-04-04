@@ -9,7 +9,7 @@ df = pd.read_csv('Skincare_Review/2/nyka_top_brands_cosmetics_product_reviews.cs
 
 df = df[['review_date','author','brand_name','product_title','price','review_rating','product_rating']]
 
-rule = pd.read_csv('result_rules.csv',sep=',')
+rule = pd.read_csv('Skincare_Review/2/result_rules.csv',sep=',')
 
 # Mengganti tanda kurung pada kolom 'items'
 rule['antecedents'] = rule['antecedents'].apply(lambda x: [item.strip() for item in x.strip('()').split(',')])
