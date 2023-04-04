@@ -13,9 +13,13 @@ df = df[['review_date','author','brand_name','product_title','price','review_rat
 options = ['Olay', 'Nykaa Naturals', 'Nykaa Cosmetics', 'Nivea', 'NYX Professional Makeup', 'Maybelline New York', 'Lakme', "L'Oreal Paris", 'Kay Beauty', 'Herbal Essences']
 
 # membuat multiselect dengan label "Select your favorite brands"
+st.write("---")
 selected_options = st.multiselect('Select Brand Name :', options)
 
-df = df.loc[df['brand_name'].isin(selected_options)]
+if len(selected_options) != 0 :
+    df = df.loc[df['brand_name'].isin(selected_options)]
+else:
+    df = df
 
 rule = pd.read_csv('Skincare_Review/2/result_rules.csv',sep=',')
 
@@ -93,6 +97,7 @@ output['antecedents'] = c
 output['consequents'] = g
 
 if len(user) != 0:
+    st.write("---")
     st.markdown('Pilihan Item :')
     st.info(user_input)
     target_items = set(user)
@@ -105,6 +110,7 @@ if len(user) != 0:
         st.markdown('Hasil Rekomendasi Item : ')
         st.error('Tidak Ada Rekomendasi Produk')
 else:
+    st.write("---")
     st.markdown('Warning :')
     st.error('Silahkan Input Item!')
 
