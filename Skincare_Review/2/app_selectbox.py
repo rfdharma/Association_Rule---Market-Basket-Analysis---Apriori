@@ -94,10 +94,28 @@ h = []
 for i, v in enumerate(g):
     h.append((g[i]))
 
+clean = pd.read_csv('result_rule_clean.csv')
+
+def search_nested_list(nested_list, search_string):
+    for i in range(len(nested_list)):
+        if type(nested_list[i]) == list:
+            result = search_nested_list(nested_list[i], search_string)
+            if result is not None:
+                return result
+        elif type(nested_list[i]) == str and nested_list[i] == '""L\'Oreal Paris Infallible Pro-Spray & Set Makeup Extender""':
+            nested_list[i] = nested_list[i].replace('""', '').replace('\\', '')
+            return nested_list[i]
+    return None
+
+# Pencarian dan penggantian nilai dalam nested list
+search_string = "[""'Kay Beauty Matte Compact'"", '""L\'Oreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick""']"
+result = search_nested_list(clean['antecedents'].values, '""L\'Oreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick""')
+
 # batas
 output = pd.DataFrame()
-output['antecedents'] = c
+output['antecedents'] = result
 output['consequents'] = g
+
 
 if len(user) != 0:
     st.write("---")
