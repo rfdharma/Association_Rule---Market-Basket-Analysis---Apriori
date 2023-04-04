@@ -1,0 +1,7 @@
+Data :
+
+https://www.kaggle.com/datasets/jithinanievarghese/cosmetics-and-beauty-products-reviews-top-brands
+
+Apps :
+
+https://rfdharma-association-rule--skincare-review2app-selectbox-19z2m7.streamlit.app/
