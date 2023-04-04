@@ -67,7 +67,7 @@ if type(data) != type('Tidak Ditemukan'):
 
     freq = apriori(item_count_pivot, min_support=0.15, use_colnames=True)
 
-    rules = association_rules(freq, metric='lift', min_threshold=1)
+    rules = association_rules(freq, metric='confidence', min_threshold=1)
     rules.sort_values(by=['support', 'confidence', 'lift','conviction'], ascending=False, inplace=True)
 
 
