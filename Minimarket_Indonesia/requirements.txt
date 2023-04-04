@@ -1,9 +1,9 @@
+streamlit
 matplotlib==3.4.2
 pandas==1.3.1
 seaborn==0.11.1
 numpy==1.20.3
 mlxtend==0.18.0
-streamlit==0.88.0
 calendar
 locale
 datetime
