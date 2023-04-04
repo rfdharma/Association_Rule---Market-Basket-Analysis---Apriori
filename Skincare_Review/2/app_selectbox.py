@@ -10,6 +10,7 @@ df = pd.read_csv(
 
 df = df[['review_date', 'author', 'brand_name', 'product_title','price', 'review_rating', 'product_rating']]
 
+
 # membuat pilihan yang tersedia
 options = ['Olay', 'Nykaa Naturals', 'Nykaa Cosmetics', 'Nivea', 'NYX Professional Makeup','Maybelline New York', 'Lakme', "L'Oreal Paris", 'Kay Beauty', 'Herbal Essences']
 
@@ -94,26 +95,37 @@ h = []
 for i, v in enumerate(g):
     h.append((g[i]))
 
-clean = pd.read_csv('Skincare_Review/2/result_rule_clean.csv')
-
 def search_nested_list(nested_list, search_string):
-    for i in range(len(nested_list)):
-        if type(nested_list[i]) == list:
-            result = search_nested_list(nested_list[i], search_string)
+    for index, item in enumerate(nested_list):
+        if type(item) == list:
+            result = search_nested_list(item, search_string)
             if result is not None:
                 return result
-        elif type(nested_list[i]) == str and nested_list[i] == '""L\'Oreal Paris Infallible Pro-Spray & Set Makeup Extender""':
-            nested_list[i] = nested_list[i].replace('""', '').replace('\\', '')
-            return nested_list[i]
+        elif type(item) == str and search_string in item:
+            return index
     return None
 
-# Pencarian dan penggantian nilai dalam nested list
-search_string = '""L\'Oreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick""'
-result = search_nested_list(clean['antecedents'].values, '""L\'Oreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick""')
+def replace_nested_list_value(nested_list, search_string, replacement):
+    index = search_nested_list(nested_list, search_string)
+    if index is not None:
+        nested_list[index] = nested_list[index].replace(search_string, replacement)
+
+
+# Cari dan ganti nilai dalam nested list
+
+search_string = "LOreal Paris Infallible Pro-Spray & Set Makeup Extender",
+replacement = "L'Oreal Paris Infallible Pro-Spray & Set Makeup Extender",
+replace_nested_list_value(c, search_string, replacement)
+
+
+search_string = "LOreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick"
+replacement = "L'Oreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick"
+replace_nested_list_value(c, search_string, replacement)
+
 
 # batas
 output = pd.DataFrame()
-output['antecedents'] = result
+output['antecedents'] = c
 output['consequents'] = g
 
 
