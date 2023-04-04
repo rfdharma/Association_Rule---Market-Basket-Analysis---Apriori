@@ -113,8 +113,8 @@ def replace_nested_list_value(nested_list, search_string, replacement):
 
 # Cari dan ganti nilai dalam nested list
 
-search_string = "LOreal Paris Infallible Pro-Spray & Set Makeup Extender",
-replacement = "L'Oreal Paris Infallible Pro-Spray & Set Makeup Extender",
+search_string = "LOreal Paris Infallible Pro-Spray & Set Makeup Extender"
+replacement = "L'Oreal Paris Infallible Pro-Spray & Set Makeup Extender"
 replace_nested_list_value(c, search_string, replacement)
 
 
