@@ -13,7 +13,7 @@ df = df[['review_date','author','brand_name','product_title','price','review_rat
 options = ['Olay', 'Nykaa Naturals', 'Nykaa Cosmetics', 'Nivea', 'NYX Professional Makeup', 'Maybelline New York', 'Lakme', "L'Oreal Paris", 'Kay Beauty', 'Herbal Essences']
 
 # membuat multiselect dengan label "Select your favorite brands"
-selected_options = st.multiselect('Select brands :', options)
+selected_options = st.multiselect('Select Brand Name :', options)
 
 df = df.loc[df['brand_name'].isin(selected_options)]
 
@@ -50,7 +50,7 @@ user_input = list(filterfalse(lambda x: x is None, user_input))
 user = sorted(user_input)
 
 st.markdown('Pilihan Item :')
-st.markdown(user_input)
+st.info(user_input)
 # st.markdown(type(user))
 
 antecedents = rule['antecedents'].values
