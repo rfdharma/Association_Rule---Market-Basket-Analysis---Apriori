@@ -15,7 +15,7 @@ options = ['Olay', 'Nykaa Naturals', 'Nykaa Cosmetics', 'Nivea', 'NYX Profession
 # membuat multiselect dengan label "Select your favorite brands"
 selected_options = st.multiselect('Select brands :', options)
 
-df = df.loc[df['brand'].isin(selected_options)]
+df = df.loc[df['brand_name'].isin(selected_options)]
 
 rule = pd.read_csv('Skincare_Review/2/result_rules.csv',sep=',')
 
