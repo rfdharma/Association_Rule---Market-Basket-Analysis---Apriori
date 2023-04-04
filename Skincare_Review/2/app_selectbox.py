@@ -108,7 +108,7 @@ def search_nested_list(nested_list, search_string):
     return None
 
 # Pencarian dan penggantian nilai dalam nested list
-search_string = "[""'Kay Beauty Matte Compact'"", '""L\'Oreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick""']"
+search_string = '""L\'Oreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick""'
 result = search_nested_list(clean['antecedents'].values, '""L\'Oreal Paris Infallible Ultra Matte Liquid Les Macarons Lipstick""')
 
 # batas
