@@ -5,7 +5,7 @@ from itertools import filterfalse
 st.title('Analisis Produk Skincare Berdasarkan Review Pelanggan Menggunakan Algoritma Apriori')
 
 
-df = pd.read_csv('nyka_top_brands_cosmetics_product_reviews.csv',sep=',')
+df = pd.read_csv('Skincare_Review/2/nyka_top_brands_cosmetics_product_reviews.csv',sep=',')
 
 df = df[['review_date','author','brand_name','product_title','price','review_rating','product_rating']]
 
