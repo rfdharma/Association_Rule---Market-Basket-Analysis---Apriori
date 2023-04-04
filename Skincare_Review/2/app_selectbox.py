@@ -27,7 +27,7 @@ product = set(df["product_title"].values)
 
 product = set(df["product_title"].values)
 
-product = list(product)
+product = sorted(list(product))
 
 # Menyisipkan elemen None ke index 0
 product.insert(0, None)
