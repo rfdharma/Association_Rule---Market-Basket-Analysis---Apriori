@@ -49,8 +49,6 @@ user_input.append(st.selectbox('Item 4',product,key='item4'))
 user_input = list(filterfalse(lambda x: x is None, user_input))
 user = sorted(user_input)
 
-st.markdown('Pilihan Item :')
-st.info(user_input)
 # st.markdown(type(user))
 
 antecedents = rule['antecedents'].values
@@ -95,6 +93,8 @@ output['antecedents'] = c
 output['consequents'] = g
 
 if len(user) != 0:
+    st.markdown('Pilihan Item :')
+    st.info(user_input)
     target_items = set(user)
 
     if (output['antecedents'].apply(set) == target_items).any():
@@ -105,7 +105,8 @@ if len(user) != 0:
         st.markdown('Hasil Rekomendasi Item : ')
         st.error('Tidak Ada Rekomendasi Produk')
 else:
-    st.error('Silahkan Input Item !')
+    st.markdown('Warning :')
+    st.error('Silahkan Input Item!')
 
 
 
