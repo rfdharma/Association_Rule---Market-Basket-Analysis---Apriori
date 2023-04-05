@@ -143,12 +143,12 @@ if len(user) != 0:
         st.success(hasil["consequents"].values[0])
         st.markdown('Link Penjualan :')
         df_link = df.loc[df['product_title'].isin(hasil["consequents"].values[0])]
-        # Menampilkan link menggunakan format HTML
-        if len(hasil["consequents"].values[0]) > 1:
-            for i,v in enumerate(df_link['product_url'].values):
-                st.write(f'<a href={str(v[i])}>Nama Link</a>', unsafe_allow_html=True)
-        else:
-            st.write(f'<a href={str(df_link["product_url"].values)}>Nama Link</a>', unsafe_allow_html=True)
+        st.write(f'<a href={str(df_link["product_url"].values)}>Nama Link</a>', unsafe_allow_html=True)
+        # # Menampilkan link menggunakan format HTML
+        # if len(hasil["consequents"].values[0]) > 1:
+        #     for i,v in enumerate(df_link['product_url'].values):
+        #         st.write(f'<a href={str(v[i])}>Nama Link</a>', unsafe_allow_html=True)
+        # else:
             
 
 
