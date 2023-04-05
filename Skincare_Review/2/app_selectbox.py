@@ -6,7 +6,7 @@ st.title('Analisis Produk Skincare Berdasarkan Review Pelanggan Menggunakan Algo
 
 
 df = pd.read_csv(
-    'Skincare_Review/2/nyka_top_brands_cosmetics_product_reviews.csv', sep=',')
+    'Skincare_Review/2/Data/nyka_top_brands_cosmetics_product_reviews.csv', sep=',')
 
 df = df[['review_date', 'author', 'brand_name', 'product_title','price', 'review_rating', 'product_rating','product_url']]
 
@@ -23,7 +23,7 @@ if len(selected_options) != 0:
 else:
     df = df
 
-rule = pd.read_csv('Skincare_Review/2/result_rules.csv', sep=',')
+rule = pd.read_csv('Skincare_Review/2/Output/result_rules.csv', sep=',')
 
 # Mengganti tanda kurung pada kolom 'items'
 rule['antecedents'] = rule['antecedents'].apply(
@@ -73,9 +73,9 @@ for i, v in enumerate(a):
 for i, v in enumerate(b):
     c = [[s.replace("'", "") for s in inner] for inner in b]
 
-d = []
-for i, v in enumerate(c):
-    d.append(sorted(c[i]))
+# d = []
+# for i, v in enumerate(c):
+#     d.append(sorted(c[i]))
 
 # batas
 
@@ -91,9 +91,9 @@ for i, v in enumerate(f):
     g = [[s.replace("'", "") for s in inner] for inner in f]
 
 
-h = []
-for i, v in enumerate(g):
-    h.append((g[i]))
+# h = []
+# for i, v in enumerate(g):
+#     h.append((g[i]))
 
 def search_nested_list(nested_list, search_string):
     for index, item in enumerate(nested_list):
@@ -141,15 +141,6 @@ if len(user) != 0:
         hasil = output[output['antecedents'].apply(set) == target_items]
         st.markdown('Hasil Rekomendasi Item : ')
         st.success(hasil["consequents"].values[0])
-        # st.markdown('Link Penjualan :')
-        # df_link = df.loc[df['product_title'].isin(hasil["consequents"].values[0])]
-        # st.write(f'<a href={str(df_link["product_url"].values[0])}></a>', unsafe_allow_html=True)
-        # # Menampilkan link menggunakan format HTML
-        # if len(hasil["consequents"].values[0]) > 1:
-        #     for i,v in enumerate(df_link['product_url'].values):
-        #         st.write(f'<a href={str(v[i])}>Nama Link</a>', unsafe_allow_html=True)
-        # else:
-            
 
 
     else:
