@@ -1,4 +1,4 @@
-# Association_Rule---Market-Basket-Analysis---Apriori
+# Analysis of Skincare Product Recommendation Based on Customer Reviews Using Apriori Algorithm
 
 Do you often find yourself confused when choosing and purchasing skincare products on E-commerce platforms? In this regard, our learning model is based on the Apriori algorithm to analyze the frequency of skincare product reviews from customers.
 
