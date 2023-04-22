@@ -11,7 +11,7 @@ from mlxtend.frequent_patterns import association_rules, apriori
 
 
 # Import Dataset
-df = pd.read_csv('https://raw.githubusercontent.com/rfdharma/Association_Rule---Market-Basket-Analysis---Apriori/master/Minimarket_Indonesia/sales_detail.csv',sep=',')
+df = pd.read_csv('sales_detail.csv')
 
 # Data Pre-processing
 
