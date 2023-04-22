@@ -66,7 +66,7 @@ if type(data) != type('Tidak Ditemukan'):
     freq = apriori(item_count_pivot, min_support=0.00001, use_colnames=True)
 
     rules = association_rules(freq, metric='lift', min_threshold=0.0001)
-    rules.sort_values(by=['support', 'confidence', 'lift',conviction'], ascending=False, inplace=True)
+    rules.sort_values(by=['support', 'confidence', 'lift', 'conviction'], ascending=False, inplace=True)
 
 
 def recommended_item(item_antecedents):
